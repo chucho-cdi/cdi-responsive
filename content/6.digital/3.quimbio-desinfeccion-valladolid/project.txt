@@ -1,0 +1,28 @@
+tipo-proyecto: Digital
+-
+title-cst: Quimbio
+-
+title-eng: Quimbio
+-
+date: 2010
+-
+image-portada:
+<img src="../../../imagenes-trabajos/web-quimbio-desinfeccion-valladolid/quimbio-desinfeccion-desratizacion-valladolid1.png" alt="@title-eng desinfección desratización Valladolid">
+-
+descrip-cst: 
+Diseño y desarrollo del sitio web para Quimbio, especialistas en desinfección y control de plagas. <a href="http://cocinadeideas.net/menu-carne/identidad/quimbio/" target="blank" class="cst enlacetexto">Más información</a>.
+
+· Visitar: <a href="http://quimbio.net/" target="blank" class="cst enlacetexto">quimbio.net</a>
+-
+descrip-eng: 
+English translation coming soon!
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/web-quimbio-desinfeccion-valladolid/quimbio-desinfeccion-desratizacion-valladolid2.png" alt="@title-eng web layout">
+<img src="../../../imagenes-trabajos/web-quimbio-desinfeccion-valladolid/quimbio-desinfeccion-desratizacion-valladolid3.png" alt="@title-eng web layout">
+<div class="titulo-imgs" style="background-image:none;">
+<span class="cst">Diferentes secciones</span><br>
+<span class="eng">Various sections</span>
+</div>

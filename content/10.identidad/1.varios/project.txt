@@ -1,0 +1,49 @@
+tipo-proyecto: Identity
+-
+title-cst: Varios
+-
+title-eng: Various
+-
+date: 2012
+-
+image-portada: 
+<img src="../../../imagenes-trabajos/identidad-varios-logotipos/identidad-relibrea-libros-segunda-mano-logotipo.png" alt="Relibrea second hand textbooks logotype">
+<img src="../../../imagenes-trabajos/identidad-varios-logotipos/identidad-relibrea-libros-segunda-mano-icono.png" alt="Relibrea second hand textbooks icon">
+
+<div class="titulo-imgs" style="margin-bottom:-25px">
+<a class="moreinfo" href="/menu-carne/?/digital/relibrea-libros-segunda-mano/">+INFO</a>
+<span class="cst">Relibrea - Portal líder de compraventa de libros de texto de segunda mano</span><br>
+<span class="eng">Relibrea - Leader sell&buy website specialized in second-hand textbooks</span>
+</div>
+-
+descrip-cst:
+-
+descrip-eng:
+-
+keywords: 
+-
+images:
+
+
+
+<img src="../../../imagenes-trabajos/identidad-varios-logotipos/identidad-liz-dunphy-coaching.png" alt="Liz Dunphy coaching Leeds">
+<div class="titulo-imgs">
+<span class="cst">Liz Dunphy, Coaching (Leeds) - Trabajo en colaboración con Leticia Velasco</span><br>
+<span class="eng">Liz Dunphy, Coaching (Leeds) - Work in collaboration with Leticia Velasco</span>
+</div>
+
+<img src="../../../imagenes-trabajos/identidad-varios-logotipos/identidad-eii-escuela-ingenierias-industriales-universidad.png" alt="Escuela ingenierías industriales (EII - Valladolid) - Industrial Engineering University">
+<img src="../../../imagenes-trabajos/identidad-varios-logotipos/identidad-eii-escuela-ingenierias-industriales-sello.png" alt="Universidad sello EII Industrial Engineering University">
+<div class="titulo-imgs">
+<span class="cst">Escuela ingenierías industriales (EII - Valladolid) - Trabajo en colaboración con Nuria Pastor</span><br>
+<span class="eng">Industrial Engineering University (Valladolid) - Work in collaboration with Nuria Pastor</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/identidad-varios-logotipos/identidad-bautisch-mesa-logotipo.png" alt="Conceptual desk Bauhaus">
+<div class="titulo-imgs">
+<a class="moreinfo" href="/menu-carne/?/varios/mesa-bauhaus-bautisch/">+INFO</a>
+<span class="cst">Mesa conceptual inspirada en los ideales de la Bauhaus</span><br>
+<span class="eng">Conceptual desk inspired by Bauhaus principles</span>
+</div>
+

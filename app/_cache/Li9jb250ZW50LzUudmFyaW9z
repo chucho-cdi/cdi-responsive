@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>@title, Name's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Name</a>
+				<em>Graphic Designer</em>
+			</h1>
+			<h2 class="col two">
+				Selected Projects
+				<em>(2001—2009)</em>
+			</h2>
+			<p class="col six"><em>   
+  
+  
+  
+  
+  
+ </em></p>
+			<hr>
+			<div id="content" class="home col eleven">
+				<p class="category col two"><em>@title</em></p>
+<ul class="project-list col seven">
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/varios/placebo-videoclip/"><img src="./content/5.varios/3.placebo-videoclip/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/varios/placebo-videoclip/">@title</a></p>
+			<p><em>2010</em></p>
+			<p><em class="background">&ndash; </em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/varios/mesa-bauhaus-bautisch/"><img src="./content/5.varios/2.mesa-bauhaus-bautisch/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/varios/mesa-bauhaus-bautisch/">@title</a></p>
+			<p><em>2010</em></p>
+			<p><em class="background">&ndash; </em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/varios/stopmotion-paperkraft-una-historia-en-cada-paso/"><img src="./content/5.varios/1.stopmotion-paperkraft-una-historia-en-cada-paso/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/varios/stopmotion-paperkraft-una-historia-en-cada-paso/">@title</a></p>
+			<p><em>2010</em></p>
+			<p><em class="background">&ndash; </em></p>
+		</div>
+	</li>
+
+</ul>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright Name 2012 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+                
+                
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 6ba075acc4a0aef7a3222d8fc039c6ad -->

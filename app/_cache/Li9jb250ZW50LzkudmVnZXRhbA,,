@@ -1,0 +1,349 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>COCINADEIDEAS  //  Chucho A.Nieto</title>
+
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+        
+        <link href="./templates/estilo-carne.css" rel="stylesheet" type="text/css" />
+        <link href="./templates/estilo-general.css" rel="stylesheet" type="text/css" />
+
+
+		<script type="text/javascript" src="./templates/js/jquery.min.1.5.0.js"></script>
+        <script type="text/javascript" src="./templates/js/easing.js"></script>
+		<script type="text/javascript" src="./templates/js/jquery.ui.totop.js"></script>
+		<script type="text/javascript" src="./templates/js/jquery.scroll.secciones.js"></script>
+    
+            
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $().UItoTop({ easingType: 'easeOutQuart' });
+            });
+        </script>
+		 
+
+        
+        
+        
+        
+        
+	</head>
+    
+    
+	<body>
+		  <div id="container">
+        	     
+        	<div id="logo"><img src="./templates/img/web-general/cocina-de-ideas-logotipo-carne.jpg" width="365" height="68" alt="cocina de ideas logotipo"></div>
+            <div id="cambio-menu"><a href="./templates/index-vegetal.html"><img src="./templates/img/web-general/opcion-vegetal.png" width="64" height="62" alt="opción vegetal"></a></div>
+            <div id="menu">
+            
+                <a href="#Tipografía">Tipografía</a><br><br>
+                <a href="#Packaging">Pack</a><br><br>
+                <a href="#Print">Print</a><br><br>
+                <a href="#Other-cst">Other</a><br><br>
+
+            </div>
+            
+            <div id="pie"><a href="#">Otro link</a>,       <a href="./?/vegetal/">Vegetal</a>,
+  
+  
+  
+  
+  
+  
+      <a href="./?/contacto/">About</a>,
+  
+      <a href="./?/la-cocina/">Contact details</a>,
+  
+</div>
+        
+			<div id="content">    
+                      <p class="categoria"><em>Tipografía<br>Typography</em></p>
+    
+    <ul class="project-list col seven">
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/tipografia/tipografia-gaseosa/"><img src="./content/8.tipografia/3.tipografia-gaseosa/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/tipografia/tipografia-gaseosa/">Tipografía Gaseosa<br>Gaseosa type</a></p>
+    			<p><em>2011</em></p>
+    			<p><em class="background">&ndash; </em></p>
+    		</div>
+    	</li>
+        
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/tipografia/swf-project-6/"><img src="./content/8.tipografia/2.swf-project-6/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/tipografia/swf-project-6/">Proyecto titulo unico<br>abcd</a></p>
+    			<p><em>2011</em></p>
+    			<p><em class="background">&ndash; </em></p>
+    		</div>
+    	</li>
+        
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/tipografia/project-name-2/"><img src="./content/8.tipografia/1.project-name-2/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/tipografia/project-name-2/">...Project 2-cst<br>...Project 2-eng</a></p>
+    			<p><em>2009, Feb–</em></p>
+    			<p><em class="background">&ndash; <p>typeface, modular, display face, unreleased, typography, experiment</p>
+</em></p>
+    		</div>
+    	</li>
+        
+    
+    <h1 id="Tipografía" class="scrollmenu">.</h1>
+    </ul>
+    
+       <p class="categoria"><em>Packaging<br>Packaging</em></p>
+    
+    <ul class="project-list col seven">
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/packaging/project-1/"><img src="./content/7.packaging/10.project-1/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/packaging/project-1/">The Test Project 1-cst<br>The Test Project 1-eng</a></p>
+    			<p><em>2009, Jan–</em></p>
+    			<p><em class="background">&ndash; magazine, illustration, sneakers, nike</em></p>
+    		</div>
+    	</li>
+        
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/packaging/project-name-2/"><img src="./content/7.packaging/9.project-name-2/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/packaging/project-name-2/">...Project 2-cst<br>...Project 2-eng</a></p>
+    			<p><em>2009, Feb–</em></p>
+    			<p><em class="background">&ndash; <p>typeface, modular, display face, unreleased, typography, experiment</p>
+</em></p>
+    		</div>
+    	</li>
+        
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/packaging/project-name-3/"><img src="./content/7.packaging/8.project-name-3/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/packaging/project-name-3/">The Test Project 3-cst<br>The Test Project 3-eng</a></p>
+    			<p><em>2009, Aug–</em></p>
+    			<p><em class="background">&ndash; print, promotion, program, photography, found objects, performance, theatre</em></p>
+    		</div>
+    	</li>
+        
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/packaging/swf-project-6/"><img src="./content/7.packaging/5.swf-project-6/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/packaging/swf-project-6/">The SWF Project 6-cst<br>The SWF Project 6-eng</a></p>
+    			<p><em>2009, Jun–</em></p>
+    			<p><em class="background">&ndash; SWF, print, poster, photography, party, flyer, promotion</em></p>
+    		</div>
+    	</li>
+        
+    
+    <h1 id="Packaging" class="scrollmenu">.</h1>
+    </ul>
+    
+       <p class="categoria"><em>Print<br>Print</em></p>
+    
+    <ul class="project-list col seven">
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/print/project-1/"><img src="./content/6.print/10.project-1/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/print/project-1/">The Test Project 1-cst<br>The Test Project 1-eng</a></p>
+    			<p><em>2009, Jan–</em></p>
+    			<p><em class="background">&ndash; magazine, illustration, sneakers, nike</em></p>
+    		</div>
+    	</li>
+        
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/print/project-name-2/"><img src="./content/6.print/9.project-name-2/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/print/project-name-2/">...Project 2-cst<br>...Project 2-eng</a></p>
+    			<p><em>2009, Feb–</em></p>
+    			<p><em class="background">&ndash; <p>typeface, modular, display face, unreleased, typography, experiment</p>
+</em></p>
+    		</div>
+    	</li>
+        
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/print/project-name-3/"><img src="./content/6.print/8.project-name-3/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/print/project-name-3/">The Test Project 3-cst<br>The Test Project 3-eng</a></p>
+    			<p><em>2009, Aug–</em></p>
+    			<p><em class="background">&ndash; print, promotion, program, photography, found objects, performance, theatre</em></p>
+    		</div>
+    	</li>
+        
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/print/swf-project-6/"><img src="./content/6.print/5.swf-project-6/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/print/swf-project-6/">The SWF Project 6-cst<br>The SWF Project 6-eng</a></p>
+    			<p><em>2009, Jun–</em></p>
+    			<p><em class="background">&ndash; SWF, print, poster, photography, party, flyer, promotion</em></p>
+    		</div>
+    	</li>
+        
+    
+    <h1 id="Print" class="scrollmenu">.</h1>
+    </ul>
+    
+       <p class="categoria"><em>Web<br>Web</em></p>
+    
+    <ul class="project-list col seven">
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/web/movie-project-2/"><img src="./content/5.web/9.movie-project-2/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/web/movie-project-2/">Movie Project 2-cst<br>Movie Project 2-eng</a></p>
+    			<p><em>2009, Feb–</em></p>
+    			<p><em class="background">&ndash; video, MOV, MP4, print, poster, photography, party, flyer, promotion</em></p>
+    		</div>
+    	</li>
+        
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/web/youtube-project-4/"><img src="./content/5.web/7.youtube-project-4/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/web/youtube-project-4/">Youtube Project 4—-cst<br>Youtube Project 4—-eng</a></p>
+    			<p><em>2009, Dec–</em></p>
+    			<p><em class="background">&ndash; youtube, poster, photography, party, flyer, promotion</em></p>
+    		</div>
+    	</li>
+        
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/web/vimeo-project-5/"><img src="./content/5.web/6.vimeo-project-5/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/web/vimeo-project-5/">The Vimeo Project 5-cst<br>The Vimeo Project 5-eng</a></p>
+    			<p><em>2009, Jun–</em></p>
+    			<p><em class="background">&ndash; Vimeo, poster, photography, party, flyer, promotion</em></p>
+    		</div>
+    	</li>
+        
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/web/project-name-6/"><img src="./content/5.web/5.project-name-6/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/web/project-name-6/">The Longer Project Name 6-cst<br>The Longer Project Name 6-eng</a></p>
+    			<p><em>2009, Jun–</em></p>
+    			<p><em class="background">&ndash; print, poster, opulent, party, flyer, A3, junk, collection</em></p>
+    		</div>
+    	</li>
+        
+    
+    <h1 id="Web" class="scrollmenu">.</h1>
+    </ul>
+    
+       <p class="categoria"><em>Other-cst<br>Other-eng</em></p>
+    
+    <ul class="project-list col seven">
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/enlaces/mixed-media-project-7/"><img src="./content/4.enlaces/4.mixed-media-project-7/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/enlaces/mixed-media-project-7/">The Mixed Media Project 7-cst<br>The Mixed Media Project 7-eng</a></p>
+    			<p><em>2009, Jun–</em></p>
+    			<p><em class="background">&ndash; assorted, youtube, vimeo, SWF, VIMEO, mov, mp4, images</em></p>
+    		</div>
+    	</li>
+        
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/enlaces/project-name-8/"><img src="./content/4.enlaces/3.project-name-8/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/enlaces/project-name-8/">The Test Project 8-cst<br>The Test Project 8-eng</a></p>
+    			<p><em>2009, Jun–</em></p>
+    			<p><em class="background">&ndash; print, poster, photography, party, flyer, promotion</em></p>
+    		</div>
+    	</li>
+        
+        
+        <li>
+  			<div class="thumbnail col two">
+    			<a href="./?/enlaces/project-name-9/"><img src="./content/4.enlaces/2.project-name-9/thumb.jpg" alt=""></a>
+    		</div>
+            
+    		<div class="summary col two">
+    			<p><a href="./?/enlaces/project-name-9/">Project 9-cst<br>Project 9-eng</a></p>
+    			<p><em>2009, Jun–</em></p>
+    			<p><em class="background">&ndash; print, poster, promotion, performance, theatre, casino, simulacrum</em></p>
+    		</div>
+    	</li>
+        
+    
+    <h1 id="Other-cst" class="scrollmenu">.</h1>
+    </ul>
+    
+    
+            </div>
+            
+			<p id="footer" class="col six">
+                        
+            &copy;  Copyright Name 2011 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em>
+            </p>
+	    </div>
+        
+
+	</body>
+</html>
+<!-- Stacey(2.3.0): 175c9fc1a0cd8ca19c62e1c2e9d8c959 -->

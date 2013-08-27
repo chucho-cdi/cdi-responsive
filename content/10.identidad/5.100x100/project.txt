@@ -1,0 +1,53 @@
+tipo-proyecto: Identity
+-
+title-cst: 100x100
+-
+title-eng: 100x100
+-
+date: 2011
+-
+image-portada:
+<img src="../../../imagenes-trabajos/identidad-100x100-productos-ecologicos/identidad-100x100-general.png" alt="@title-eng - General brand">
+-
+descrip-cst: 
+100×100 es una marca dedicada a la alimentación ecológica que busca generar nexos de unión entre los pequeños productores rurales y los consumidores del ámbito urbano, intentado mejorar así la calidad de los productos que consumimos en nuestro día a día.
+
+Al contar con ediciones muy limitadas, la marca está pensada para que sea el propio productor el que se encargue de etiquetar los productos, logrando que el máximo elemento corporativo de nuestra empresa se convierta en una pieza cercana en la que cada trabajador se vea reflejado.
+
+Colaboración con <a href="http://adrianfroufe.com/" class="cst enlacetexto">Adrián Froufe</a>, diseñador de producto.
+
+<br>CLAVES DEL PROYECTO<br>
+Cercanía / Calidad / Alimentación ecológica
+-
+descrip-eng: 
+100x100 is a brand dedicated to eco-friendly food whose aim is to generate links between the small rural producers and the urban consumers, and therefore trying to improve the quality of the products we consume on a daily basis. Due to a limited production, the brand is intended for the manufacturer himself labels the products, so this label becomes a feature where every single worker can see himself reflected in.
+
+In collaboration with <a href="http://adrianfroufe.com/" class="eng enlacetexto">Adrián Froufe</a>, product designer.
+
+<br>PROJECT KEYS<br>
+Close relationships / Quality / Ecological food
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/identidad-100x100-productos-ecologicos/identidad-100x100-logotipo.png" alt="@title-eng - Brand variations">
+<div class="titulo-imgs">
+<span class="cst">Logotipo principal y variaciones</span><br>
+<span class="eng">Main logotype and its variations</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/identidad-100x100-productos-ecologicos/identidad-100x100-caja2.png" alt="@title-eng - Multiporpose cardboard box">
+<img src="../../../imagenes-trabajos/identidad-100x100-productos-ecologicos/identidad-100x100-caja.png" alt="@title-eng - Multiporpose cardboard box">
+<div class="titulo-imgs">
+<span class="cst">Caja multifunción</span><br>
+<span class="eng">Multipourpose box</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/identidad-100x100-productos-ecologicos/identidad-100x100-stand-multiple2.png" alt="@title-eng - Folding stand">
+<img src="../../../imagenes-trabajos/identidad-100x100-productos-ecologicos/identidad-100x100-stand-multiple.png" alt="@title-eng - Folding stand">
+<div class="titulo-imgs">
+<span class="cst">Stand plegable</span><br>
+<span class="eng">Folding stand</span>
+</div>

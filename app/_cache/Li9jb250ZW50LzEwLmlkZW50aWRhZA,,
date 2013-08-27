@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>@title, Name's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Name</a>
+				<em>Graphic Designer</em>
+			</h1>
+			<h2 class="col two">
+				Selected Projects
+				<em>(2001—2009)</em>
+			</h2>
+			<p class="col six"><em>   
+  
+  
+  
+  
+  
+ </em></p>
+			<hr>
+			<div id="content" class="home col eleven">
+				<p class="category col two"><em>@title</em></p>
+<ul class="project-list col seven">
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/identidad/varios/"><img src="./content/10.identidad/5.varios/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/identidad/varios/">@title</a></p>
+			<p><em>2012</em></p>
+			<p><em class="background">&ndash; </em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/identidad/cacv/"><img src="./content/10.identidad/4.cacv/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/identidad/cacv/">@title</a></p>
+			<p><em>2009</em></p>
+			<p><em class="background">&ndash; </em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/identidad/quimbio/"><img src="./content/10.identidad/3.quimbio/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/identidad/quimbio/">@title</a></p>
+			<p><em>2009</em></p>
+			<p><em class="background">&ndash; </em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/identidad/white-marketing/"><img src="./content/10.identidad/2.white-marketing/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/identidad/white-marketing/">@title</a></p>
+			<p><em>2011</em></p>
+			<p><em class="background">&ndash; </em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/identidad/100x100/"><img src="./content/10.identidad/1.100x100/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/identidad/100x100/">@title</a></p>
+			<p><em>2011</em></p>
+			<p><em class="background">&ndash; </em></p>
+		</div>
+	</li>
+
+</ul>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright Name 2012 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+                
+                
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 6ba075acc4a0aef7a3222d8fc039c6ad -->

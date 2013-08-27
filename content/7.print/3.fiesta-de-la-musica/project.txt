@@ -1,0 +1,33 @@
+tipo-proyecto: Print
+-
+title-cst: Fiesta de la música
+-
+title-eng: Live music festival
+-
+date: 2010
+-
+image-portada:
+<img src="../../../imagenes-trabajos/print-dia-musica-valladolid/cartel-fiesta-de-la-musica-valladolid-2010-1.png" alt="@title-eng - Valladolid 2010">
+-
+descrip-cst: 
+Propuesta de cartel para la <a href="http://fiestadelamusicavalladolid.wordpress.com/" class="cst enlacetexto">fiesta de la música en Valladolid</a> con el lema 'plaza musical'.
+
+Durante este día todo aquel que quiera tendrá permiso para tocar en cualquier rincón de la ciudad sin necesidad de inscripciones ni turnos de espera. Cualquier plaza, calle, terraza de bar, atrio de museo, parque o patio de colegio pasa ser el mejor escenario de un concierto.
+</br></br>
+Trabajo conjunto con el colectivo gráfico Nohaycolor.
+-
+descrip-eng: 
+Proposal poster for the Valladolid music day with the slogan 'musical square'.
+
+On this day everyone who wants to will be allowed to play at any place of the city without permission or standby shifts. Any square, street, terrace bar, atrium museum, park or schoolyard happens to be the best stage for a concert.
+</br></br>
+In collaboration with Nohaycolor graphic collective
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/print-dia-musica-valladolid/cartel-fiesta-de-la-musica-valladolid-2010-2.png" alt="@title-eng - poster">
+<div class="titulo-imgs">
+<span class="cst">Poster principal</span></br>
+<span class="eng">Main poster</span>
+</div>

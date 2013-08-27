@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>COCINADEIDEAS  //  Youtube Project 4—</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+
+        <link href="./templates/estilo-carne.css" rel="stylesheet" type="text/css" />
+        <link href="./templates/estilo-general.css" rel="stylesheet" type="text/css" />
+
+
+	</head>
+    
+	<body>
+		<div id="container">
+        
+        	<div id="logo">LOGO</div>
+            <div id="cambio-menu">O</div>
+
+        
+			<!-- <p class="col six"><em>   
+  
+  
+  
+  
+      <a href="./?/contacto/">About</a>,
+  
+      <a href="./?/la-cocina/">Contact details</a>,
+  
+ </em></p> -->
+            
+        
+            <div id="titulo">
+            <a href="./">Youtube Project 4—-cst</a><br>
+            <a href="./">Youtube Project 4—-eng</a>
+            </div>
+            
+			<div id="descripcion" class="cst">@descrip-cst</div>
+			<div id="descripcion" class="eng">@descrip-eng</div> 
+            
+			<!-- <p><em class="background">&ndash; youtube, poster, photography, party, flyer, promotion</em></p> -->
+             
+             
+            <div id="content" class="col seven">
+				<div id="media">
+  
+  
+  
+  
+  
+  
+      	<object width="425" height="344">
+	<param name="movie" value="http://www.youtube.com/v/oU4E6uQmQIg&hl=en&fs=1&rel=0"></param>
+	<param name="allowFullScreen" value="true"></param>
+	<param name="allowscriptaccess" value="always"></param>
+	<embed src="http://www.youtube.com/v/oU4E6uQmQIg&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed>
+</object>
+
+  
+</div>
+			</div>    
+                       
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 9fd85520a0cf102edc50058c787ca5f7 -->

@@ -1,0 +1,44 @@
+tipo-proyecto: Print
+-
+title-cst: Campaña patatas prefritas
+-
+title-eng: Prefried potatoes campaign
+-
+date: 2010
+-
+image-portada:
+<img src="../../../imagenes-trabajos/print-patatas-prefritas/patatas-del-abuelo-prefritas.png" alt="@title-eng - Advertising">
+-
+descrip-cst: 
+Desarrollo del concepto 'Ahorrar tiempo no tiene por qué ser tan complicado ' para la empresa Las patatas del abuelo.
+
+La campaña busca potenciar desde un punto de vista cómico la principal cualidad de las nuevas patatas: máximo ahorro de tiempo y energía.
+
+Además de las gráficas para prensa, se realizaron cuñas de radio, spot de televisión y una propuesta de packaging.
+</br></br>
+· Trabajo conjunto con el colectivo gráfico Nohaycolor.
+
+<span style="display: block;margin-left: 8px; text-indent: -8px;">
+· Oro en la categoría jóvenes creativos de los Premios de la publicidad de Castilla y León (2010).
+</span>
+-
+descrip-eng: 
+English translation coming soon!
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/print-patatas-prefritas/patatas-del-abuelo-prefritas-anuncio1.png" alt="@title-eng - Newspapers ad">
+<div class="titulo-imgs">
+<span class="cst">Gráfica1 (Pintura de carretera)</span><br>
+<span class="eng">Ad1 (Road paint)</span>
+</div>
+
+<img src="../../../imagenes-trabajos/print-patatas-prefritas/patatas-del-abuelo-prefritas-anuncio2.png" alt="@title-eng - Magazines Advertising">
+<div class="titulo-imgs">
+<span class="cst">Gráfica2 (Paseando al perro) y propuesta de packaging</span><br>
+<span class="eng">Ad2 (Walking the dog) and packaging proposal</span>
+</div>
+
+<iframe src="http://player.vimeo.com/video/12853871?title=0&amp;byline=0&amp;portrait=0&amp;color=ee323d" width="615" height="348" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<br><br>

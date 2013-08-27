@@ -1,0 +1,46 @@
+tipo-proyecto: Digital
+-
+title-cst: Exuru
+-
+title-eng: Exuru
+-
+date: 2012
+-
+image-portada:
+<img src="../../../imagenes-trabajos/web-exuru-deals/exuru-deals-1-home.png" alt="@title-eng deals - home">
+-
+descrip-cst: 
+Relibrea nace como la solución a un problema que ha estado presente en las escuelas y universidades durante años: la falta de un punto de encuentro donde poder comprar y vender libros de texto de segunda mano.
+
+Mediante un diseño directo y distintivo logramos dar vida a un portal destinado a dar servicio a un amplio sector de la población, que cumple con los requisitos iniciales de facilidad de uso y escalabilidad a corto plazo. 
+
+· Visitar: <a href="http://www.relibrea.com/" class="cst enlacetexto">Web</a>
+-
+descrip-eng: 
+English translation coming soon!
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/web-exuru-deals/exuru-deals-2-vendors.png" alt="@title-eng deals - vendors">
+<img src="../../../imagenes-trabajos/web-exuru-deals/exuru-deals-3-settings.png" alt="@title-eng deals - settings">
+<div class="titulo-imgs" style="background-image:none;">
+<span class="cst">Website: home, vendedores y página de ajustes</span><br>
+<span class="eng">Website: home, vendors and settings page</span>
+</div>
+
+<img src="../../../imagenes-trabajos/web-exuru-deals/exuru-mobile-app-1.png" alt="@title-eng deals - mobile app">
+<img src="../../../imagenes-trabajos/web-exuru-deals/exuru-mobile-app-2.png" alt="@title-eng deals - mobile app">
+<img src="../../../imagenes-trabajos/web-exuru-deals/exuru-mobile-app-3.png" alt="@title-eng deals - mobile app">
+<img src="../../../imagenes-trabajos/web-exuru-deals/exuru-mobile-app-4.png" alt="@title-eng deals - mobile app">
+<img src="../../../imagenes-trabajos/web-exuru-deals/exuru-mobile-app-5.png" alt="@title-eng deals - mobile app">
+<div class="titulo-imgs">
+<span class="cst">Website: home, vendedores y página de ajustes</span><br>
+<span class="eng">Website: home, vendors and settings page</span>
+</div>
+
+<img src="../../../imagenes-trabajos/web-exuru-deals/exuru-mobile-app-ipad-1.png" alt="@title-eng deals - mobile app">
+<div class="titulo-imgs">
+<span class="cst">Website: home, vendedores y página de ajustes</span><br>
+<span class="eng">Website: home, vendors and settings page</span>
+</div>

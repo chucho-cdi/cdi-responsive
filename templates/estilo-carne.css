@@ -1,0 +1,411 @@
+/* @override http://cocinadeideas:8888/templates/estilo-carne.css */
+
+body {background-color: #fff}
+
+.rojo {color: #ee323d;}
+
+
+/* MENU GENERAL: cerdo */
+#botones-menu{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	font-size: 16px;
+	font-weight: normal;
+    font-style: normal;
+}
+
+@-moz-document url-prefix() { /* Solo para FF */
+	#botones-menu{
+	font-size:16px;
+	top: -2px;
+	}
+}
+
+a.boton {
+	color: #8a8a8a;
+	text-decoration:none;
+	font-family: 'auto', "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+a.boton:hover {
+	color: #ee323d;
+}
+
+a.boton:active {
+	text-indent: 1px;
+	font-size: 0.95em;
+}
+
+a.botonencima {
+	color: #ee323d;
+}
+
+#botontypography{position:absolute;top:256px;left:170px;}
+#botonprint{position:absolute;top:110px;left:75px;}
+#botonpackaging{position:absolute;top:3px;left:390px;}
+#botonidentity{position:absolute;top:149px;left:480px;}
+#botondigital{position:absolute;top:24px;left:160px;}
+#botonvarious{position:absolute;top:203px;left:455px;}
+
+
+
+
+/* MENU SECUNDARIO: logo etc */
+
+#menusecundario {
+	border-top: 1px dotted #dc2e38;
+	border-bottom: 1px dotted #dc2e38;
+	margin-bottom: 20px;
+	padding-top: 6px;
+}
+
+#menusecundario #secciones a{
+	color: #ee323d;
+	font: 17px 'auto', "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	text-shadow: #d5af9f 0 2px 0.1em;
+}
+
+#menusecundario #secciones a:hover{text-shadow: 0px 0px 0px #ddd; vertical-align: -1px;}
+
+#menusecundario #secciones .pieseparador{
+	position: relative;
+	margin: 6px;
+	bottom: 2px;
+	text-shadow: 0px 2px 0.1em #ae0832;
+}
+
+
+
+/* Bloques de trabajos y secciones */
+
+
+.miniaturastitulo{ /* titulos de cada bloque de trabajos */
+	width: 615px;
+	height: 11px;
+	margin-bottom: 16px;
+	float: left;
+	text-align: left;	
+	text-transform: uppercase;
+	font-family: 'tradecond', trebuchet, verdana, sans-serif;
+	border-bottom: 1px dotted #dc2e38;
+}
+
+.miniaturastitulo h1{
+	font-size: 15px;
+	color: #ee323d;
+	background-color: #fff;
+	display: inline-block;
+	position: relative;
+	padding: 30px 10px 0 0;
+	height: 16px;
+	top: -27px;
+}
+
+.bloque-contenido .miniaturastitulo{ /* solo para los bloques del final */
+	width: 615px;
+	height: 24px;
+	font-family: 'tradeboldcond', trebuchet, verdana, sans-serif;
+	border-bottom: 2px solid #ee5c65;
+	margin-bottom: 20px;
+}
+
+.bloque-contenido .miniaturastitulo h1{ /* solo para los bloques del final */
+	font-size: 20px;
+	color: #ee5059;
+}
+
+
+
+
+
+/* Apartados en el index: general */
+
+.link {color: #ee323d;	line-height: 16px;}
+.link:hover{text-decoration: underline;}
+
+
+
+
+
+/* Apartados en el index: pie */
+.pie{
+	width: 615px;
+	height: 60px;
+	border-top: 1px dotted #ee5c65;
+	padding-top: 10px;
+}
+
+
+
+
+
+/* Apartados en el index: formulario de contacto */
+fieldset{border: 0px;padding: 30px 0 0; float: left;}
+
+#formulario{margin-top: 100px; position: absolute; height: 350px; width: 615px;}
+
+.formulario-parte{
+	float: left;
+	clear: both;
+	width: 297px;
+	margin-bottom: 15px;
+}
+.formulario-etiqueta{
+	width: 297px;
+	text-align: left;
+	margin-bottom: 2px;
+}
+
+.formulario-campo{
+	width: 297px;
+}
+
+form.contacto input[type="text"],form.contacto input[type="email"], form.contacto textarea {
+    background: #F5F5F5;
+    border: 1px solid #E8E8E8;
+    color: #626262;
+    display: block;
+    float: left;
+    font-size: 13px;
+    padding: 8px;
+    resize: none;
+    width: 280px;
+	-webkit-transition: all 0.1s linear;
+	-moz-transition: all 0.1s linear;
+}
+form.contacto input[type="text"]:focus,form.contacto input[type="email"]:focus, form.contacto textarea:focus {
+	background: #F9F9F9;
+	border: 1px solid #ed8282;
+	outline: none;
+}
+
+
+form.contacto textarea{font-family: 'tradecond'; font-size: 13px;}
+
+.mensaje{height: 100px;}
+
+form.contacto .ultimo{
+    margin-bottom: 0;
+    position: relative
+}
+form.contacto button {
+	background: #7c7e7e;
+    border: 1px solid #737676;
+    color: #FFFFFF;
+    float: right;
+    font-family: 'tradecond';
+    font-size: 13px;
+    height: 27px;
+    padding: 0 8px;
+    text-transform: uppercase;
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+}
+form.contacto button:hover{
+	background: #ee323d;
+	border: 1px solid #dc5056;
+	cursor: pointer;
+}
+
+.correo{
+	position: absolute;
+	width: 298px;
+	height: 70px;
+	top: 276px;
+	left: 315px;
+	padding-left:25px;
+	background:url(img/contacto-email.png) no-repeat 0 100%;
+	font: 16px 'auto', "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+/* Formulario: AJAX Gif y mensajes de exito o fracaso */
+.hide{
+	display: none;
+}
+.show{
+	display: inline;
+}
+.ajaxgif{
+	position: absolute;
+    left: 350px;
+    top: 100px;
+}
+.msg{
+    color: #787878;
+    text-align: left;
+    line-height: 18px;
+    padding: 8px 0 0 90px;
+	position: absolute;
+	top: 593px;
+	left: 315px;
+	width: 298px;
+	height: 70px;
+	background:url(img/contacto-email.png) no-repeat 0 0;
+}
+
+
+@-moz-document url-prefix() { /* Solo para FF */
+	#correo{
+	height: 70px;
+	top: 253px;
+	left: 495px;
+	}
+	.msg{
+	top: 194px;
+	left: 318px;
+	}
+}
+
+
+/*
+.msg_ok{
+	background: #589D05;
+}
+.msg_error{
+	background: red;
+}
+*/
+
+
+
+
+
+
+
+
+/* Selección: para Safari y Firefox*/
+
+::selection {
+	background: #ee5b63;
+	color: #fff;
+}
+
+::-moz-selection {
+	background: #ee5b63;
+	color: #fff;
+}
+
+
+
+
+
+
+/* Página individual de trabajos */
+
+.controles {
+	position: relative;
+	float: right;
+	top: 2px;
+	background-color: #fff;
+	padding-left: 5px;
+}
+
+
+#descripcion a, #descripcion a:active, #descripcion a:visited{color: #a0a2a2; text-decoration: underline;}
+#descripcion a:hover{color: #ee323d; text-decoration: underline;}
+
+
+.enlacetexto {border-bottom: 1px dotted; display: inline-block; height: 15px;}
+.enlacetexto:hover{color: #ee323d;}
+
+
+/* UItoTop jQuery Plugin 1.1 */
+
+#botontop {
+	position: relative;
+	width:60px;
+	height:60px;
+}
+
+#toTop {
+	text-decoration:none;
+	position:fixed;
+	margin: auto;
+	bottom:20px;
+	right: 20px;
+	overflow:hidden;
+	width:60px;
+	height:60px;
+	border:none;
+	text-indent:-999px;
+	background:url(img/controls-carne.png) no-repeat left top;
+}
+
+#toTopHover {
+	background:url(img/controls-carne.png) no-repeat left -60px;
+	width:60px;
+	height:60px;
+	display:block;
+	overflow:hidden;
+	float:left;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
+}
+
+#toTop:active, #toTop:focus {
+	outline:none;
+}
+
+
+/* Navegación Moviles dentro de los trabajos */
+
+#mobile-controls {
+	width: 60px;
+	height: auto;
+	position: fixed;
+	top:65px;
+	right: 20px;
+	display: block;
+}
+
+.mobile-controls-prev {
+	background-color: #ccc;
+	width: 60px;
+	height: 60px;
+	margin-bottom: 10px;
+	background:url(img/controls-carne.png) no-repeat left -120px;
+}
+.mobile-controls-next {
+	background-color: #ccc;
+	width: 60px;
+	height: 60px;
+	margin-bottom: 10px;
+	background:url(img/controls-carne.png) no-repeat left -180px;
+}
+.mobile-controls-close {
+	background-color: #ccc;
+	width: 60px;
+	height: 60px;
+	margin-bottom: 10px;
+	background:url(img/controls-carne.png) no-repeat left -240px;
+}
+
+
+
+
+/* Para el scroll */
+
+::-webkit-scrollbar {
+    width: 15px;
+    height: 15px;
+}
+
+::-webkit-scrollbar-button:start:decrement,
+::-webkit-scrollbar-button:end:increment {
+    display: block;
+    height: 15px;
+	background-color: #fff;
+}
+
+::-webkit-scrollbar-track-piece {
+    background-color: #e7e7e7;
+}
+
+::-webkit-scrollbar-thumb:vertical,
+::-webkit-scrollbar-thumb:horizontal {
+    background-color: #ee323d;
+}
+

@@ -1,0 +1,45 @@
+tipo-proyecto: Identity
+-
+title-cst: CACV · Centro arte contemporáneo
+-
+title-eng: CACV · Contemporary art center
+-
+date: 2009
+-
+image-portada:
+<img src="../../../imagenes-trabajos/identidad-museo-arte-cacv/identidad-cacv-museo-arte-contemporaneo-logotipo.png" alt="@title-eng - Museum identity design">
+-
+descrip-cst: 
+Centro de arte de próxima apertura en Vancouver (Canadá).
+
+<br>CLAVES DEL PROYECTO<br>
+Modernidad / Actualidad / Implicación de los ciudadanos
+-
+descrip-eng: 
+Art Centre in Vancouver (Canada).
+
+<br>PROJECT KEYS<br>
+Modernism / Current affairs / Citizen involvement
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/identidad-museo-arte-cacv/identidad-cacv-museo-arte-pulseras.png" alt="@title-eng - Museum entrance wristbands">
+<div class="titulo-imgs">
+<span class="cst">Pulseras de entrada</span><br>
+<span class="eng">Entrance wristbands</span>
+</div>
+
+<img src="../../../imagenes-trabajos/identidad-museo-arte-cacv/identidad-cacv-museo-arte-cartel.png" alt="@title-eng - Poster Le Corbusier">
+<div class="titulo-imgs">
+<span class="cst">Modelo de cartel</span><br>
+<span class="eng">Poster test</span>
+</div>
+
+<img src="../../../imagenes-trabajos/identidad-museo-arte-cacv/identidad-plantilla-web-placa1.png" alt="@title-eng - Signaging applications">
+<img src="../../../imagenes-trabajos/identidad-museo-arte-cacv/identidad-plantilla-web-placa2.png" alt="@title-eng - Signaging applications">
+<img src="../../../imagenes-trabajos/identidad-museo-arte-cacv/identidad-plantilla-web-placa3.png" alt="@title-eng - Signaging applications">
+<div class="titulo-imgs">
+<span class="cst">Varias aplicaciones de señalización</span><br>
+<span class="eng">Various sign applications</span>
+</div>

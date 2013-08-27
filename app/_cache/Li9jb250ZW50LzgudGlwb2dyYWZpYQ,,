@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>@title, Name's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Name</a>
+				<em>Graphic Designer</em>
+			</h1>
+			<h2 class="col two">
+				Selected Projects
+				<em>(2001—2009)</em>
+			</h2>
+			<p class="col six"><em>   
+  
+  
+  
+  
+  
+ </em></p>
+			<hr>
+			<div id="content" class="home col eleven">
+				<p class="category col two"><em>@title</em></p>
+<ul class="project-list col seven">
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/tipografia/ayuda-humanitaria/"><img src="./content/8.tipografia/7.ayuda-humanitaria/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/tipografia/ayuda-humanitaria/">@title</a></p>
+			<p><em>2011</em></p>
+			<p><em class="background">&ndash; </em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/tipografia/enredos-de-dos/"><img src="./content/8.tipografia/6.enredos-de-dos/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/tipografia/enredos-de-dos/">@title</a></p>
+			<p><em>2009</em></p>
+			<p><em class="background">&ndash; </em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/tipografia/nightbook-lettering-ludovico-einaudi/"><img src="./content/8.tipografia/5.nightbook-lettering-ludovico-einaudi/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/tipografia/nightbook-lettering-ludovico-einaudi/">@title</a></p>
+			<p><em>2011</em></p>
+			<p><em class="background">&ndash; </em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/tipografia/tipo-en-la-cabeza/"><img src="./content/8.tipografia/4.tipo-en-la-cabeza/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/tipografia/tipo-en-la-cabeza/">@title</a></p>
+			<p><em>2011</em></p>
+			<p><em class="background">&ndash; </em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/tipografia/tipografia-gaseosa/"><img src="./content/8.tipografia/3.tipografia-gaseosa/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/tipografia/tipografia-gaseosa/">@title</a></p>
+			<p><em>2011</em></p>
+			<p><em class="background">&ndash; </em></p>
+		</div>
+	</li>
+
+</ul>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright Name 2012 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+                
+                
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 35dbdb3731acc1625e2bfaba4837a973 -->

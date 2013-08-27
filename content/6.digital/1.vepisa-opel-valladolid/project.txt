@@ -1,0 +1,32 @@
+tipo-proyecto: Digital
+-
+title-cst: Vepisa · Opel Valladolid
+-
+title-eng: Vepisa · Opel (Vauxhall) Valladolid
+-
+date: 2011
+-
+image-portada:
+<img src="../../../imagenes-trabajos/web-vepisa-opel-valladolid/vepisa-creciendo-juntos-opel-corsa-facebook.png" alt="@title-eng landing page camping Facebook">
+-
+descrip-cst: 
+Desarrollo de la campaña 'Creciendo Juntos', donde el concesionario premiará a sus usuarios de Facebook cada vez que alcance una de las metas marcadas.
+
+Elaboramos un sistema sencillo y efectivo, permitiendo a los usuarios una rápida participación y aportando facilidades a los administradores para gestionar las respuestas y manejar las estadísticas sobre cada uno de los concursos.
+
+· Trabajo conjunto con Leticia Velasco y White Marketing.
+
+· Visitar: <a href="http://www.facebook.com/grupovepisa/app_4949752878" class="cst enlacetexto">Página de Facebook</a> / <a href="http://grupovepisa.com/creciendojuntos/" class="cst enlacetexto">Web</a>
+-
+descrip-eng: 
+English translation coming soon!
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/web-vepisa-opel-valladolid/vepisa-creciendo-juntos-opel-corsa-website1.png" alt="@title-eng - minisite">
+<img src="../../../imagenes-trabajos/web-vepisa-opel-valladolid/vepisa-creciendo-juntos-opel-corsa-website2.png" alt="@title-eng - minisite">
+<div class="titulo-imgs" style="background-image:none;">
+<span class="cst">Minisite de la campaña 'Creciendo juntos'</span><br>
+<span class="eng">'Creciendo juntos' campaign minisite</span>
+</div>

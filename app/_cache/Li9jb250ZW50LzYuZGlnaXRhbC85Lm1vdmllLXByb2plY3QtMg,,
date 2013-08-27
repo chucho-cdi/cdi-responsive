@@ -1,0 +1,146 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>COCINADEIDEAS  |  Movie Project 2-cst - Movie Project 2-eng</title>
+
+
+        <META NAME="author" CONTENT="Cocinadeideas">
+        <META NAME="subject" CONTENT="negocios">
+        <META NAME="Description" CONTENT="Cocina de ideas · Movie Project 2-cst - Movie Project 2-eng">
+        <META NAME="Classification" CONTENT="Cocina de ideas | Diseño gráfico y comunicación visual | Freelance design in Valladolid and Leeds">
+        <META NAME="Keywords" CONTENT="diseño gráfico, graphic design, freelance, portfolio, portafolio, web, logo, logotipo, logotype, publicidad, adds, advertising, packaging, tipografía, type, typography, identidad corporativa, identity, bussiness, cocina, kitchen, ideas, valladolid, leeds, castilla y león, yorkshire, cocinadeideas">
+        <META NAME="Language" CONTENT="Castellano, English">
+        <META HTTP-EQUIV="Expires" CONTENT="never">
+        <META NAME="Revisit-After" CONTENT="30">
+        <META NAME="distribution" CONTENT="Global">
+        <META NAME="Robots" CONTENT="INDEX,FOLLOW">        
+
+
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+
+        <link href="../estilo-general.css" rel="stylesheet" type="text/css">
+        <link href="./templates/estilo-carne.css" rel="stylesheet" type="text/css">
+        <link href="./templates/tipsy.css" rel="stylesheet" type="text/css">
+        
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script type="text/javascript" src="./templates/js/easing.and.totop.js"></script>
+		<script type="text/javascript" src="./templates/js/jquery.tipsy.js"></script>
+
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $().UItoTop({ easingType: 'easeOutQuart' });
+            });
+        </script>
+        
+        
+		<script type='text/javascript'>
+			 $(function() {
+			   $('a[rel=izquierda]').tipsy({fade: true, gravity: 'ne', html: true});
+			   $('a[rel=centro]').tipsy({fade: true, gravity: 'n'});
+			   $('a[rel=derecha]').tipsy({fade: true, gravity: 'nw', html: true});
+			 });
+        </script>
+            
+        
+        <script>
+		<!--http://jqueryfordesigners.com/fixed-floating-elements/ -->
+			$(function () {
+			  
+			  var msie6 = $.browser == 'msie' && $.browser.version < 7;
+			  
+			  if (!msie6) {
+				var top = $('#titulo').offset().top - parseFloat($('#titulo').css('margin-top').replace(/auto/, 0));
+				$(window).scroll(function (event) {
+				  // what the y position of the scroll is
+				  var y = $(this).scrollTop();
+				  // whether that's below the form
+				  if (y >= top) {
+					// if so, ad the fixed class			
+					$('#titulo').addClass('fixed');						 
+					} else {
+					// otherwise remove it
+					$('#titulo').removeClass('fixed');
+				  }
+					});
+			  }  
+			});
+		</script>
+
+                
+        <style>
+        #titulo {position: absolute;top: 554px;}
+        #titulo.fixed {position: fixed;top: 0;}
+        </style>
+		 
+        <link rel="icon" href="./templates/img/favicon-carne.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="./templates/img/favicon-carne.ico" type="image/x-icon"> 
+
+        
+	</head>
+    
+	<body>
+		<div id="container">
+        
+        	<div id="logo"><a href="./"><img src="./templates/img/cocina-de-ideas-logotipo-carne.jpg" width="365" height="68" alt="cocina de ideas logotipo"></a></div>
+            <div id="cambio-menu"><a href="./templates/index-vegetal.html"><img src="./templates/img/opcion-vegetal.png" width="64" height="62" alt="opción vegetal"></a></div>
+          
+            <div id="titulo">
+                        <span class="cst">Movie Project 2-cst</span><br>
+                        <span class="eng">Movie Project 2-eng</span><br>
+                        <span class="controles">   
+                                                                                              <a href="./?/digital/project-name-6/" class="controles" rel="izquierda" title='The Longer Project Name 6-cst</br>The Longer Project Name 6-eng'><img src="./templates/img/transp.gif" class="navegacion-izq"></a>
+                                
+                                  
+                                    <a href="./#@tipo-proyecto" class="controles" rel="centro" title='VOLVER / RETURN'><img src="./templates/img/transp.gif" class="navegacion-return"></a> 
+                                                                                              <a href="./?/digital/youtube-project-4/" class="controles" rel="derecha" title='Youtube Project 4—-cst</br>Youtube Project 4—-eng'><img src="./templates/img/transp.gif" class="navegacion-der"></a>
+                                                       
+                              
+                        </span> 
+            </div>      
+
+           
+           	<div id="trabajo">
+            	@image-portada
+                
+                <div id="descripcion2" class="eng">@descrip-eng</div>
+                <div id="descripcion1" class="cst">@descrip-cst</div>
+            
+            </div>
+            
+  			<div id="material-grafico">@images <div id="media">
+  
+  
+      	<div class="media">
+		<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="540" height="445" >
+			<param name="src" value="./content/6.digital/9.movie-project-2/2.540x445.mov">
+			<param name="autoplay" value="false">
+			<param name="controller" value="true">
+			<embed src="./content/6.digital/9.movie-project-2/2.540x445.mov" width="540" height="445" autoplay="false" controller="true" pluginspage="http://www.apple.com/quicktime/download/"></embed>
+		</object>
+	</div>
+	<div class="media">
+		<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="540" height="445" >
+			<param name="src" value="./content/6.digital/9.movie-project-2/1.540x445.m4v">
+			<param name="autoplay" value="false">
+			<param name="controller" value="true">
+			<embed src="./content/6.digital/9.movie-project-2/1.540x445.m4v" width="540" height="445" autoplay="false" controller="true" pluginspage="http://www.apple.com/quicktime/download/"></embed>
+		</object>
+	</div>
+
+  
+  
+  
+  
+  
+</div></div>
+                                    
+                           
+		</div><!-- container -->  
+	</body>
+</html>
+<!-- Stacey(2.3.0): 020abb91d7021baeb2f2ceca8556ffbb -->

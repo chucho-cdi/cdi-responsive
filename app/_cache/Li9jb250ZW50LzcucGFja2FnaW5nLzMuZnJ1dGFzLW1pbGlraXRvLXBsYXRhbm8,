@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>COCINADEIDEAS  |  Frutas Milikito · Plátano - Milikito fruit company · Banana</title>
+
+
+        <META NAME="author" CONTENT="Cocinadeideas">
+        <META NAME="subject" CONTENT="negocios">
+        <META NAME="Description" CONTENT="Cocina de ideas · Frutas Milikito · Plátano - Milikito fruit company · Banana">
+        <META NAME="Classification" CONTENT="Cocina de ideas | Diseño gráfico y comunicación visual | Freelance design in Valladolid and Leeds">
+        <META NAME="Keywords" CONTENT="diseño gráfico, graphic design, freelance, portfolio, portafolio, web, logo, logotipo, logotype, publicidad, adds, advertising, packaging, tipografía, type, typography, identidad corporativa, identity, bussiness, cocina, kitchen, ideas, valladolid, leeds, castilla y león, yorkshire, cocinadeideas">
+        <META NAME="Language" CONTENT="Castellano, English">
+        <META HTTP-EQUIV="Expires" CONTENT="never">
+        <META NAME="Revisit-After" CONTENT="30">
+        <META NAME="distribution" CONTENT="Global">
+        <META NAME="Robots" CONTENT="INDEX,FOLLOW">        
+
+
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+
+        <link href="../estilo-general.css" rel="stylesheet" type="text/css">
+        <link href="./templates/estilo-carne.css" rel="stylesheet" type="text/css">
+        <link href="./templates/tipsy.css" rel="stylesheet" type="text/css">
+        
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script type="text/javascript" src="./templates/js/easing.and.totop.js"></script>
+		<script type="text/javascript" src="./templates/js/jquery.tipsy.js"></script>
+
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $().UItoTop({ easingType: 'easeOutQuart' });
+            });
+        </script>
+        
+        
+		<script type='text/javascript'>
+			 $(function() {
+			   $('a[rel=izquierda]').tipsy({fade: true, gravity: 'ne'});
+			   $('a[rel=centro]').tipsy({fade: true, gravity: 'n'});
+			   $('a[rel=derecha]').tipsy({fade: true, gravity: 'nw'});
+			 });
+        </script>
+            
+        
+        <script>
+		<!--http://jqueryfordesigners.com/fixed-floating-elements/ -->
+			$(function () {
+			  
+			  var msie6 = $.browser == 'msie' && $.browser.version < 7;
+			  
+			  if (!msie6) {
+				var top = $('#titulo').offset().top - parseFloat($('#titulo').css('margin-top').replace(/auto/, 0));
+				$(window).scroll(function (event) {
+				  // what the y position of the scroll is
+				  var y = $(this).scrollTop();
+				  // whether that's below the form
+				  if (y >= top) {
+					// if so, ad the fixed class			
+					$('#titulo').addClass('fixed'),						 
+					$('#titulo').animate({"margin-top" : 18});
+					} else {
+					// otherwise remove it
+					$('#titulo').removeClass('fixed');
+				  }
+					});
+			  }  
+			});
+		</script>
+
+                
+        <style>
+        #titulo {position: absolute;top: 553px;}
+        #titulo.fixed {position: fixed;top: 0;}
+        </style>
+		 
+        <link rel="icon" href="./templates/img/favicon-carne.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="./templates/img/favicon-carne.ico" type="image/x-icon"> 
+
+        
+	</head>
+    
+	<body>
+		<div id="container">
+        
+        	<div id="logo"><a href="./"><img src="./templates/img/cocina-de-ideas-logotipo-carne.jpg" width="365" height="68" alt="cocina de ideas logotipo"></a></div>
+            <div id="cambio-menu"><a href="./templates/index-vegetal.html"><img src="./templates/img/opcion-vegetal.png" width="64" height="62" alt="opción vegetal"></a></div>
+          
+            <div id="titulo">
+                        <span class="cst">Frutas Milikito · Plátano</span><br>
+                        <span class="eng">Milikito fruit company · Banana</span><br>
+                        <span class="controles">   
+                                                                                              <a href="./?/packaging/centro-arte-contemporaneo-vancouver/" class="controles" rel="izquierda" title='CACV · Pack reutilizable / CACV · Reusable pack'><img src="./templates/img/transp.gif" class="navegacion-izq"></a>
+                                
+                                  
+                                    <a href="./" class="controles" rel="centro" title='VOLVER / RETURN'><img src="./templates/img/transp.gif" class="navegacion-return"></a> 
+                                                                                              <a href="./?/packaging/even-dia-de-cine/" class="controles" rel="derecha" title='EVEN · Día de cine / EVEN · Cinema day'><img src="./templates/img/transp.gif" class="navegacion-der"></a>
+                                                       
+                              
+                        </span> 
+            </div>      
+
+           
+           	<div id="trabajo">
+            	<p><img src="../imagenes-trabajos/pack-fruta-platano/packaging-fruta-platano-infantil1.png" alt="Frutas Milikito · Plátano - Milikito fruit company · Banana"></p>
+
+                
+                <div id="descripcion2" class="eng"><p>Even es una empresa de eventos dedicada a organizar citas perfectas para que las parejas no tengan que preocuparse por nada.</p>
+
+<p>Este pack, compuesto de dos entradas, camiseta, bebida energética y cuatro preservativos, está ideado para la cita 'día de cine'.</p>
+
+<p><br>PROJECT KEYS<br>
+Juventud / seguridad / planes perfectos</p>
+</div>
+                <div id="descripcion1" class="cst"><p>Even es una empresa de eventos dedicada a organizar citas perfectas para que las parejas no tengan que preocuparse por nada.</p>
+
+<p>Este pack, compuesto de dos entradas, camiseta, bebida energética y cuatro preservativos, está ideado para la cita 'día de cine'.</p>
+
+<p><br>CLAVES DEL PROYECTO<br>
+Juventud / seguridad / planes perfectos</p>
+</div>
+            
+            </div>
+            
+  			<div id="material-grafico"><p><img src="../imagenes-trabajos/pack-fruta-platano/packaging-fruta-platano-infantil2.png" alt="Frutas Milikito · Plátano"></p>
+
+<div class="titulo-imgs">
+<span class="cst">Packaging inicial y poster promocional</span><br>
+<span class="eng">Initial packaging and promotional poster</span>
+</div>
+
+<p><img src="../imagenes-trabajos/pack-fruta-platano/packaging-fruta-platano-infantil3.png" alt="Frutas Milikito · Plátano"></p>
+
+<div class="titulo-imgs">
+<span class="cst">Packaging inicial y poster promocional</span><br>
+<span class="eng">Initial packaging and promotional poster</span>
+</div>
+ <div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div></div>
+                                    
+                           
+		</div><!-- container -->  
+	</body>
+</html>
+<!-- Stacey(2.3.0): 12b0947721441567e9bc3b706ee5f229 -->

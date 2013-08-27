@@ -1,0 +1,55 @@
+﻿tipo-proyecto: Various
+-
+title-cst: Una historia en cada paso
+-
+title-eng: A story at each step
+-
+date: 2010
+-
+image-portada:
+<img src="../../../imagenes-trabajos/varios-stopmotion-zapatos-paperkaft/stopmotion-zapatos-paperkaft-1.png" alt="@title-eng - paperkraft stopmotion shoes lettering">
+-
+descrip-cst:
+Vídeo promocional para los <a href="http://www.modacalzadoideaslab.com/" class="cst enlacetexto">premios Ideaslab</a>, organizados por La <a href="http://www.fice.es/" class="cst enlacetexto">Federación de Industrias del Calzado</a>.
+
+El vídeo, galardonado con el primer premio, busca transmitir la personalidad de los protagonistas a través de los colores, tamaño y tejido de cada calzado.
+
+Trabajo conjunto con <a href="http://www.flickr.com/photos/leticity/" class="cst enlacetexto">Leticia Velasco</a>.
+
+<br>CLAVES DEL PROYECTO<br>
+Juventud / dinamismo / diferenciación
+-
+descrip-eng: 
+English translation coming soon!
+-
+keywords: 
+-
+images:
+<br>
+<iframe src="http://player.vimeo.com/video/18058279?title=0&amp;portrait=0&amp;color=ee323d" width="615" height="346" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<br><br><br><br>
+
+
+<img src="../../../imagenes-trabajos/varios-stopmotion-zapatos-paperkaft/stopmotion-zapatos-paperkaft-converse.png" alt="@title-eng - paperkraft stopmotion shoes">
+<img src="../../../imagenes-trabajos/varios-stopmotion-zapatos-paperkaft/stopmotion-zapatos-paperkaft-11.png" alt="@title-eng - paperkraft stopmotion shoes">
+<img src="../../../imagenes-trabajos/varios-stopmotion-zapatos-paperkaft/stopmotion-zapatos-paperkaft-12.png" alt="@title-eng - paperkraft stopmotion shoes">
+<div class="titulo-imgs">
+<span class="cst">Packaging de presentación</span><br>
+<span class="eng">Presentation pack</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/varios-stopmotion-zapatos-paperkaft/stopmotion-zapatos-paperkaft-2.png" alt="@title-eng - paperkraft stopmotion shoes">
+<img src="../../../imagenes-trabajos/varios-stopmotion-zapatos-paperkaft/stopmotion-zapatos-paperkaft-3.png" alt="@title-eng - paperkraft stopmotion shoes">
+<img src="../../../imagenes-trabajos/varios-stopmotion-zapatos-paperkaft/stopmotion-zapatos-paperkaft-4.png" alt="@title-eng - paperkraft stopmotion shoes">
+<img src="../../../imagenes-trabajos/varios-stopmotion-zapatos-paperkaft/stopmotion-zapatos-paperkaft-5.png" alt="@title-eng - paperkraft stopmotion shoes">
+<img src="../../../imagenes-trabajos/varios-stopmotion-zapatos-paperkaft/stopmotion-zapatos-paperkaft-6.png" alt="@title-eng - paperkraft stopmotion shoes">
+<img src="../../../imagenes-trabajos/varios-stopmotion-zapatos-paperkaft/stopmotion-zapatos-paperkaft-7.png" alt="@title-eng - paperkraft stopmotion shoes">
+<img src="../../../imagenes-trabajos/varios-stopmotion-zapatos-paperkaft/stopmotion-zapatos-paperkaft-8.png" alt="@title-eng - paperkraft stopmotion shoes">
+<img src="../../../imagenes-trabajos/varios-stopmotion-zapatos-paperkaft/stopmotion-zapatos-paperkaft-9.png" alt="@title-eng - paperkraft stopmotion shoes">
+<img src="../../../imagenes-trabajos/varios-stopmotion-zapatos-paperkaft/stopmotion-zapatos-paperkaft-10.png" alt="@title-eng - paperkraft stopmotion shoes">
+<div class="titulo-imgs">
+<span class="cst">Algunos fotogramas del vídeo junto a imágenes del proceso</span><br>
+<span class="eng">Some frames and making-off images</span>
+</div>
+

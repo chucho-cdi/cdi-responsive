@@ -1,0 +1,160 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>COCINADEIDEAS  |  CACV · Centro arte contemporáneo - CACV · Contemporary art center</title>
+
+
+        <META NAME="author" CONTENT="Cocinadeideas">
+        <META NAME="subject" CONTENT="negocios">
+        <META NAME="Description" CONTENT="Cocina de ideas · CACV · Centro arte contemporáneo - CACV · Contemporary art center">
+        <META NAME="Classification" CONTENT="Cocina de ideas | Diseño gráfico y comunicación visual | Freelance design in Valladolid and Leeds">
+        <META NAME="Keywords" CONTENT="diseño gráfico, graphic design, freelance, portfolio, portafolio, web, logo, logotipo, logotype, publicidad, adds, advertising, packaging, tipografía, type, typography, identidad corporativa, identity, bussiness, cocina, kitchen, ideas, valladolid, leeds, castilla y león, yorkshire, cocinadeideas">
+        <META NAME="Language" CONTENT="Castellano, English">
+        <META HTTP-EQUIV="Expires" CONTENT="never">
+        <META NAME="Revisit-After" CONTENT="30">
+        <META NAME="distribution" CONTENT="Global">
+        <META NAME="Robots" CONTENT="INDEX,FOLLOW">        
+
+
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+
+        <link href="../estilo-general.css" rel="stylesheet" type="text/css">
+        <link href="./templates/estilo-carne.css" rel="stylesheet" type="text/css">
+        <link href="./templates/tipsy.css" rel="stylesheet" type="text/css">
+        
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script type="text/javascript" src="./templates/js/easing.and.totop.js"></script>
+		<script type="text/javascript" src="./templates/js/jquery.tipsy.js"></script>
+
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $().UItoTop({ easingType: 'easeOutQuart' });
+            });
+        </script>
+        
+        
+		<script type='text/javascript'>
+			 $(function() {
+			   $('a[rel=izquierda]').tipsy({fade: true, gravity: 'ne', html: true});
+			   $('a[rel=centro]').tipsy({fade: true, gravity: 'n'});
+			   $('a[rel=derecha]').tipsy({fade: true, gravity: 'nw', html: true});
+			 });
+        </script>
+            
+        
+        <script>
+		<!--http://jqueryfordesigners.com/fixed-floating-elements/ -->
+			$(function () {
+			  
+			  var msie6 = $.browser == 'msie' && $.browser.version < 7;
+			  
+			  if (!msie6) {
+				var top = $('#titulo').offset().top - parseFloat($('#titulo').css('margin-top').replace(/auto/, 0));
+				$(window).scroll(function (event) {
+				  // what the y position of the scroll is
+				  var y = $(this).scrollTop();
+				  // whether that's below the form
+				  if (y >= top) {
+					// if so, ad the fixed class			
+					$('#titulo').addClass('fixed');						 
+					} else {
+					// otherwise remove it
+					$('#titulo').removeClass('fixed');
+				  }
+					});
+			  }  
+			});
+		</script>
+
+                
+        <style>
+        #titulo {position: absolute;top: 554px;}
+        #titulo.fixed {position: fixed;top: 0;}
+        </style>
+		 
+        <link rel="icon" href="./templates/img/favicon-carne.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="./templates/img/favicon-carne.ico" type="image/x-icon"> 
+
+        
+	</head>
+    
+	<body>
+		<div id="container">
+        
+        	<div id="logo"><a href="./"><img src="./templates/img/cocina-de-ideas-logotipo-carne.jpg" width="365" height="68" alt="cocina de ideas logotipo"></a></div>
+            <div id="cambio-menu"><a href="./templates/index-vegetal.html"><img src="./templates/img/opcion-vegetal.png" width="64" height="62" alt="opción vegetal"></a></div>
+          
+            <div id="titulo">
+                        <span class="cst">CACV · Centro arte contemporáneo</span><br>
+                        <span class="eng">CACV · Contemporary art center</span><br>
+                        <span class="controles">   
+                                                                                              <a href="./?/identidad/varios/" class="controles" rel="izquierda" title='Varios</br>Various'><img src="./templates/img/transp.gif" class="navegacion-izq"></a>
+                                
+                                  
+                                    <a href="./#Identidad" class="controles" rel="centro" title='VOLVER / RETURN'><img src="./templates/img/transp.gif" class="navegacion-return"></a> 
+                                                                                              <a href="./?/identidad/quimbio/" class="controles" rel="derecha" title='Quimbio</br>·'><img src="./templates/img/transp.gif" class="navegacion-der"></a>
+                                                       
+                              
+                        </span> 
+            </div>      
+
+           
+           	<div id="trabajo">
+            	<p><img src="../imagenes-trabajos/identidad-museo-arte-cacv/identidad-cacv-museo-arte-contemporaneo-logotipo.png" alt="CACV · Centro arte contemporáneo - CACV · Contemporary art center"></p>
+
+                
+                <div id="descripcion2" class="eng"><p>Centro de arte de próxima apertura en Vancouver (Canadá).</p>
+
+<p><br>CLAVES DEL PROYECTO<br>
+Modernidad / actualidad / implicación de los ciudadanos</p>
+</div>
+                <div id="descripcion1" class="cst"><p>Centro de arte de próxima apertura en Vancouver (Canadá).</p>
+
+<p><br>CLAVES DEL PROYECTO<br>
+Modernidad / actualidad / implicación de los ciudadanos</p>
+</div>
+            
+            </div>
+            
+  			<div id="material-grafico"><p><img src="../imagenes-trabajos/identidad-museo-arte-cacv/identidad-cacv-museo-arte-pulseras.png" alt="CACV · Centro arte contemporáneo"></p>
+
+<div class="titulo-imgs">
+<span class="cst">Pulseras de entrada</span><br>
+<span class="eng">Entrance wristbands</span>
+</div>
+
+<p><img src="../imagenes-trabajos/identidad-museo-arte-cacv/identidad-cacv-museo-arte-cartel.png" alt="CACV · Centro arte contemporáneo"></p>
+
+<div class="titulo-imgs">
+<span class="cst">Modelo de cartel</span><br>
+<span class="eng">Poster test</span>
+</div>
+
+<p><img src="../imagenes-trabajos/identidad-museo-arte-cacv/identidad-plantilla-web-placa1.png" alt="CACV · Centro arte contemporáneo">
+<img src="../imagenes-trabajos/identidad-museo-arte-cacv/identidad-plantilla-web-placa2.png" alt="CACV · Centro arte contemporáneo">
+<img src="../imagenes-trabajos/identidad-museo-arte-cacv/identidad-plantilla-web-placa3.png" alt="CACV · Centro arte contemporáneo"></p>
+
+<div class="titulo-imgs">
+<span class="cst">Varias aplicaciones de señalización</span><br>
+<span class="eng">Various sign applications</span>
+</div>
+ <div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div></div>
+                                    
+                           
+		</div><!-- container -->  
+	</body>
+</html>
+<!-- Stacey(2.3.0): b6debebc50f71d8d90b0804c4778fc78 -->

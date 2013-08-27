@@ -1,0 +1,39 @@
+tipo-proyecto: Identity
+-
+title-cst: Leeds visual arts forum
+-
+title-eng: Leeds visual arts forum
+-
+date: 2012
+-
+image-portada:
+<img src="../../../imagenes-trabajos/identidad-lvaf/leeds-visual-arts-forum-brand-logo.png" alt="@title-eng - Logotype">
+-
+descrip-cst: 
+Propuesta de identidad para el LVAF, una organización sin ánimo de lucro que tiene como objetivo elevar el perfil de las artes visuales en Leeds, proporcionando un medio de intercambio de información entre artistas y profesionales del arte, organizando eventos y proyectos así como promocionando las artes visuales a la hora de tomar decisiones políticas.
+
+<br>CLAVES DEL PROYECTO<br>
+Espacio para reuniones / Diálogo / Arte como algo real
+
+-
+descrip-eng: 
+Identity proposal for the LVAF, a not-for-profit organisation that aims to raise the profile of the visual arts in Leeds by providing a focus for information exchange for artists and arts professionals, developing events and projects and advocating the visual arts at a policy making level.
+
+<br>PROYECT KEYS<br>
+Meeting space / Dialogue / Visual arts as something real
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/identidad-lvaf/leeds-visual-arts-forum-brand-logo-versions.png" alt="@title-eng - Logo versions">
+<div class="titulo-imgs">
+<span class="cst">Página web: variación del logotipo original</span><br>
+<span class="eng">Website: variation of the original logo</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/identidad-lvaf/leeds-visual-arts-forum-brand-exhibition.png" alt="@title-eng - Exhibition">
+<div class="titulo-imgs">
+<span class="cst">Exposición con los trabajos de los miembros</span><br>
+<span class="eng">Members artwork exhibition</span>
+</div>

@@ -1,0 +1,39 @@
+tipo-proyecto: Digital
+-
+title-cst: Relibrea
+-
+title-eng: Relibrea
+-
+date: 2012
+-
+image-portada:
+<img src="../../../imagenes-trabajos/web-relibrea-libros/relibrea-compra-venta-libros-texto-segunda-mano-web1.png" alt="@title-eng web libros segunda mano - mapa y buscador">
+-
+descrip-cst: 
+Relibrea nace como la solución a un problema que ha estado presente en las escuelas y universidades durante años: la falta de un punto de encuentro donde poder comprar y vender libros de texto de segunda mano.
+
+Mediante un diseño directo y distintivo logramos dar vida a un portal destinado a prestar servicio a un amplio sector de la población, que cumple con los requisitos iniciales de facilidad de uso y escalabilidad a corto plazo. 
+
+Visitar: <a href="http://www.relibrea.com/" class="cst enlacetexto">relibrea.com</a>
+-
+descrip-eng: 
+The idea was born as the solution for a problem present in our schools and universities for years: The lack of a meeting point where people can buy and sell second-hand textbooks. By using a distinctive and straightforward design, we were able to bring to life a website aimed at providing services to a wide population sector, that meets the initial requirements of usage facility and short-term scalability.
+
+Visit: <a href="http://www.relibrea.com/" class="eng enlacetexto">relibrea.com</a>
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/web-relibrea-libros/relibrea-compra-venta-libros-texto-segunda-mano-web2.png" alt="@title-eng web libros segunda mano - resultados de busqueda">
+<img src="../../../imagenes-trabajos/web-relibrea-libros/relibrea-compra-venta-libros-texto-segunda-mano-web3.png" alt="@title-eng web libros segunda mano - página individual">
+<img src="../../../imagenes-trabajos/web-relibrea-libros/relibrea-compra-venta-libros-texto-segunda-mano-web4.png" alt="@title-eng web libros segunda mano - página de publicación">
+<div class="titulo-imgs" style="background-image:none;">
+<span class="cst">Resultados de búsqueda, página individual y página de publicación</span><br>
+<span class="eng">Search results, individual and publication pages</span>
+</div>
+
+<img src="../../../imagenes-trabajos/web-relibrea-libros/relibrea-compra-venta-libros-texto-segunda-mano-analisis.png" alt="@title-eng web libros segunda mano - estadísticas">
+<div class="titulo-imgs">
+<span class="cst">Análisis de los tres primeros meses de vida</span><br>
+<span class="eng">Case study of the first three months of life</span>
+</div>

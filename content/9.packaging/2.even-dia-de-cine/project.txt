@@ -1,0 +1,37 @@
+tipo-proyecto: Packaging
+-
+title-cst: EVEN · Día de cine
+-
+title-eng: EVEN · Cinema day
+-
+date: 2009
+-
+image-portada:
+<img src="../../../imagenes-trabajos/pack-even-cine/packaging-palomitas-camiseta-cine.png" alt="@title-eng packaging">
+-
+descrip-cst:
+Even es una empresa de eventos dedicada a organizar citas perfectas para que las parejas no tengan que preocuparse por ningún detalle.
+
+Este pack (compuesto por dos entradas, camiseta, bebida energética y caja de cuatro preservativos) está ideado como complemento para la cita 'día de cine'.
+
+<br>CLAVES DEL PROYECTO<br>
+Juventud / seguridad / planes perfectos
+-
+descrip-eng: 
+English translation coming soon!
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/pack-even-cine/packaging-cine-transporte.png" alt="@title-eng packaging popcorn">
+<div class="titulo-imgs">
+<span class="cst">Pack cerrado</span><br>
+<span class="eng">Closed pack</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/pack-even-cine/packaging-bebida-camiseta-preservativos.png" alt="@title-eng packaging juice condoms and t-shirt">
+<div class="titulo-imgs">
+<span class="cst">Diferentes elementos promocionales: Zumo, condones y camiseta</span><br>
+<span class="eng">Different promotional elements: Juice, condoms and t-shirt</span>
+</div>

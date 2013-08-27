@@ -1,0 +1,26 @@
+tipo-proyecto: Typography
+-
+title-cst: Ludovico Einaudi - Nightbook
+-
+title-eng: Ludovico Einaudi - Nightbook
+-
+date: 2011
+-
+image-portada:
+<img src="../../../imagenes-trabajos/tipo-nightbook-lettering/tipografia-nightbook-lettering1.jpg" alt="@title-eng - Lettering">
+-
+descrip-cst: 
+Lettering inspirado en la canción Nightbook, de Ludovico Einaudi.
+El compositor, considerado como uno de los mejores representantes de la música clásica contemporánea, dota a sus creaciones de ritmo y fluidez, con altos contrastes en sus notas y un estilo libre y personal muy característico.
+-
+descrip-eng: 
+English translation coming soon!
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/tipo-nightbook-lettering/tipografia-nightbook-lettering-proceso.jpg" alt="@title-eng - Lettering process and sketches">
+<div class="titulo-imgs">
+<span class="cst">PROCESO · Ajustes a mano</span><br>
+<span class="eng">PROCESS · Adjustments by hand</span>
+</div>

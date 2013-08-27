@@ -1,0 +1,39 @@
+tipo-proyecto: Packaging
+-
+title-cst: CACV · Pack reutilizable
+-
+title-eng: CACV · Reusable pack
+-
+date: 2009
+-
+image-portada:
+<img src="../../../imagenes-trabajos/pack-centro-arte-contemporaneo-vancouver/packaging-botella-lampara.png" alt="@title-cst - @title-eng water bottle lamp">
+-
+descrip-cst:
+Con motivo de la inauguración del CACV diseñamos un pack promocional pensado para que cumpla con una doble función:
+
+Inicialmente albergará la botella de agua que acompañará a los visitantes durante su recorrido y posteriormente podrá ser reconvertido en una lámpara para la mesa del ordenador.
+
+Tras vaciar la botella, aprovechando la propia rosca del tapón, solamente tendrá que acoplarse de forma invertida a la base y enchufarse en cualquier puerto USB.
+
+<br>CLAVES DEL PROYECTO<br>
+Diferenciación / actualidad / implicación de los ciudadanos
+-
+descrip-eng: 
+English translation coming soon!
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/pack-centro-arte-contemporaneo-vancouver/packaging-botella-lampara2.png" alt="@title-eng - Reusable bottle and poster">
+<div class="titulo-imgs">
+<span class="cst">Packaging inicial y poster promocional</span><br>
+<span class="eng">Initial packaging and promotional poster</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/pack-centro-arte-contemporaneo-vancouver/packaging-botella-lampara3.png" alt="@title-eng - USB lamp bottle">
+<div class="titulo-imgs">
+<span class="cst">Vistas de la lámpara USB montada</span><br>
+<span class="eng">Mounted USB-lamp views</span>
+</div>

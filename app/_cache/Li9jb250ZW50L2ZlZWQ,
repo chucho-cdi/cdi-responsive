@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+  <title>Name's Portfolio Feed</title>
+  <subtitle>Graphic Designer</subtitle>
+  <link href="http://localhost:8888/menu-carne/?/feed//" hreflang="en" rel="self" type="application/atom+xml"/>
+  <link href="http://localhost:8888/menu-carne/" hreflang="en" rel="alternate" type="text/html"/>
+  
+  <updated>2012-04-10T01:44:30+10:00</updated>
+  <generator uri="http://staceyapp.com/" version="2.3.0">Stacey</generator>
+
+  <author>
+    <name>Name</name>
+    <uri>http://localhost:8888/menu-carne</uri>
+  </author>
+
+  <id>tag:localhost:8888,2012:/?/feed/</id>
+  <rights>©2012 Name</rights>
+    <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/identidad/</id>
+   <updated>2012-01-26T05:53:17+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/identidad/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/identidad/varios/</id>
+   <updated>2012-04-09T02:40:10+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/identidad/varios/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/identidad/cacv/</id>
+   <updated>2012-04-09T02:40:13+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/identidad/cacv/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/identidad/quimbio/</id>
+   <updated>2012-04-09T02:40:14+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/identidad/quimbio/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/identidad/white-marketing/</id>
+   <updated>2012-04-09T02:40:17+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/identidad/white-marketing/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/identidad/100x100/</id>
+   <updated>2012-04-09T02:39:58+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/identidad/100x100/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/packaging/</id>
+   <updated>2011-11-28T08:01:56+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/packaging/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/packaging/frutas-milikito-platano-infantil/</id>
+   <updated>2012-04-01T03:31:59+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/packaging/frutas-milikito-platano-infantil/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/packaging/even-dia-de-cine/</id>
+   <updated>2012-04-01T03:31:46+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/packaging/even-dia-de-cine/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/packaging/centro-arte-contemporaneo-vancouver/</id>
+   <updated>2012-04-01T03:31:34+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/packaging/centro-arte-contemporaneo-vancouver/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/tipografia/</id>
+   <updated>2012-04-05T04:11:32+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/tipografia/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/tipografia/ayuda-humanitaria/</id>
+   <updated>2012-04-09T02:39:34+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/tipografia/ayuda-humanitaria/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/tipografia/enredos-de-dos/</id>
+   <updated>2012-04-09T02:39:21+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/tipografia/enredos-de-dos/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/tipografia/nightbook-lettering-ludovico-einaudi/</id>
+   <updated>2012-04-09T02:39:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/tipografia/nightbook-lettering-ludovico-einaudi/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/tipografia/tipo-en-la-cabeza/</id>
+   <updated>2012-04-09T02:39:02+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/tipografia/tipo-en-la-cabeza/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/tipografia/tipografia-gaseosa/</id>
+   <updated>2012-04-09T02:38:57+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/tipografia/tipografia-gaseosa/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/print/</id>
+   <updated>2012-04-09T04:04:16+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/print/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/print/carlos-siles-cuantas-veces-habre-intentado/</id>
+   <updated>2012-04-01T03:28:24+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/print/carlos-siles-cuantas-veces-habre-intentado/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/print/hawaiian-tropic/</id>
+   <updated>2012-04-01T03:29:34+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/print/hawaiian-tropic/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/print/fiesta-de-la-musica/</id>
+   <updated>2012-04-01T03:29:09+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/print/fiesta-de-la-musica/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/print/las-patatas-del-abuelo/</id>
+   <updated>2012-04-01T03:28:43+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/print/las-patatas-del-abuelo/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/print/ilustracion-historia-michelin/</id>
+   <updated>2012-04-01T03:28:08+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/print/ilustracion-historia-michelin/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/digital/</id>
+   <updated>2012-03-31T04:10:39+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/digital/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/digital/quimbio-desinfeccion-valladolid/</id>
+   <updated>2012-04-10T01:44:30+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/digital/quimbio-desinfeccion-valladolid/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/digital/white-marketing/</id>
+   <updated>2012-04-10T01:19:39+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/digital/white-marketing/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/digital/vepisa-opel-valladolid/</id>
+   <updated>2012-04-09T22:05:42+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/digital/vepisa-opel-valladolid/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/varios/</id>
+   <updated>2012-03-28T22:06:59+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/varios/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/varios/placebo-videoclip/</id>
+   <updated>2012-04-09T02:37:33+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/varios/placebo-videoclip/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/varios/mesa-bauhaus-bautisch/</id>
+   <updated>2012-04-09T06:12:21+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/varios/mesa-bauhaus-bautisch/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>@title</title>
+   <id>tag:localhost:8888,2012:/?/varios/stopmotion-paperkraft-una-historia-en-cada-paso/</id>
+   <updated>2012-04-09T02:37:25+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/menu-carne/?/varios/stopmotion-paperkraft-una-historia-en-cada-paso/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+
+
+
+</feed>
+<!-- Stacey(2.3.0): d2586de27e7c43bd525e90a2765799db -->

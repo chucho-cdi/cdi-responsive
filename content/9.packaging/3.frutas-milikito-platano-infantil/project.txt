@@ -1,0 +1,38 @@
+tipo-proyecto: Packaging
+-
+title-cst: Frutas Milikito · Plátano
+-
+title-eng: Milikito fruit company · Banana
+-
+date: 2009
+-
+image-portada:
+<img src="../../../imagenes-trabajos/pack-fruta-platano/packaging-fruta-platano-infantil1.png" alt="@title-eng packaging">
+-
+descrip-cst:
+Packaging creado con el objetivo de ganar presencia en el punto de venta para así potenciar el consumo de fruta entre los más pequeños.
+
+<br>CLAVES DEL PROYECTO<br>
+Juventud / Cercanía / Atracción
+-
+descrip-eng: 
+Packaging created in order to gain presence in the point of sale looking to promote fruit consumption among children.
+
+<br>PROJECT KEYS<br>
+Youth / Closeness / Attraction
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/pack-fruta-platano/packaging-fruta-platano-infantil2.png" alt="@title-eng packaging back">
+<div class="titulo-imgs">
+<span class="cst">Parte trasera. Información nutricional</span><br>
+<span class="eng">Back. Nutritional information</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/pack-fruta-platano/packaging-fruta-platano-infantil3.png" alt="@title-eng packaging fastening system">
+<div class="titulo-imgs">
+<span class="cst">Sistema de sujeción</span><br>
+<span class="eng">Fastening system</span>
+</div>

@@ -1,0 +1,38 @@
+tipo-proyecto: Typography
+-
+title-cst: Con la tipo en la cabeza
+-
+title-eng: With typography into the head
+-
+date: 2011
+-
+image-portada:
+<img src="../../../imagenes-trabajos/tipo-en-la-cabeza/tipografia-cabeza-pelo1.jpg" alt="@title-eng - Engravers">
+-
+descrip-cst: 
+La misión: crear una tipografía experimental basada en las iniciales de diversos tipos utilizando una máquina de cortar el pelo como única herramienta. Ahora, un año y medio después, el abecedario completo se puede ver recopilado en:<br>
+<a href="http://www.cocinadeideas.net/conlatipoenlacabeza"  class="cst enlacetexto">Cocinadeideas.net/conlatipoenlacabeza</a>.
+-
+descrip-eng: 
+English translation coming soon!
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/tipo-en-la-cabeza/tipografia-cabeza-pelo2.jpg" alt="@title-cst - Futura">
+<img src="../../../imagenes-trabajos/tipo-en-la-cabeza/tipografia-cabeza-pelo3.jpg" alt="@title-cst - Neutraface">
+<img src="../../../imagenes-trabajos/tipo-en-la-cabeza/tipografia-cabeza-pelo4.jpg" alt="@title-cst - Rockwell">
+<div class="titulo-imgs">
+<span class="cst">LETRAS · </span><span class="eng">LETTERS</span><br>
+<span class="eng">Engravers, Futura, Neutraface & Rockwell</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/tipo-en-la-cabeza/tipografia-cabeza-pelo-proceso1.jpg" alt="@title-cst - Process hair typography">
+<img src="../../../imagenes-trabajos/tipo-en-la-cabeza/tipografia-cabeza-pelo-proceso2.jpg" alt="@title-cst - Process hair typography">
+<div class="titulo-imgs">
+<span class="cst">PROCESO · Primeras marcas y perfilado de detalles</span><br>
+<span class="eng">PROCESS · First marks and shaping the details</span>
+</div>
+
+<iframe src="http://player.vimeo.com/video/18843490?title=0&amp;portrait=0&amp;color=ee323d" width="615" height="446" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

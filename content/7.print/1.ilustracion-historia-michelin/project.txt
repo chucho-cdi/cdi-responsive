@@ -1,0 +1,35 @@
+tipo-proyecto: Print
+-
+title-cst: Bibendum, el alma de Michelin
+-
+title-eng: Bibendum, Michelin's soul
+-
+date: 2010
+-
+image-portada:
+<img src="../../../imagenes-trabajos/print-michelin/michelin-historia-bibendum-revista-llampara1.png" alt="@title-eng - Illustration and research article">
+-
+descrip-cst: 
+Ilustración y artículo de investigación sobre Bibendum (icono de la marca Michelin) para la revista de patrimonio industrial <a href="http://llamparas.blogspot.co.uk/" class="cst enlacetexto">Llámpara</a>. <a href="../../../../../imagenes-trabajos/print-michelin/Bibendum_el_alma_de_Michelin.pdf" class="cst enlacetexto">(Descargar en formato PDF)</a>
+</br></br>
+Trabajo conjunto con el colectivo gráfico Nohaycolor.
+-
+descrip-eng: 
+Illustration and research article about Bibendum (Michelin brand icon) for industrial heritage magazine <a href="http://llamparas.blogspot.co.uk/" class="eng enlacetexto">Llámpara</a>. <a href="../../../../../imagenes-trabajos/print-michelin/Bibendum_el_alma_de_Michelin.pdf" class="eng enlacetexto">(Download in PDF)</a>
+</br></br>
+In collaboration with Nohaycolor graphic collective.
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/print-michelin/michelin-historia-bibendum-revista-llampara2.png" alt="@title-eng - Illustration and research article">
+<div class="titulo-imgs">
+<span class="cst">Detalle del lettering</span><br>
+<span class="eng">Lettering detail</span>
+</div>
+
+<img src="../../../imagenes-trabajos/print-michelin/michelin-historia-bibendum-revista-llampara3.png" alt="@title-eng - Illustration and research article - Revista Llampara">
+<div class="titulo-imgs">
+<span class="cst">Vista general de la ilustración</span><br>
+<span class="eng">General view of the illustration</span>
+</div>

@@ -1,0 +1,25 @@
+tipo-proyecto: Typography
+-
+title-cst: Enredos de dos
+-
+title-eng: Enredos de dos
+-
+date: 2009
+-
+image-portada:
+<img src="../../../imagenes-trabajos/tipo-enredos-de-dos/tipografia-enredos-hilo1.jpg" alt="@title-eng - Experimental typography made with thread">
+-
+descrip-cst: 
+Tipografía experimental con hilo para la obra de teatro 'Enredos de dos'.
+-
+descrip-eng: 
+Experimental typography made with thread for the theater play 'Tangles of two'.
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/tipo-enredos-de-dos/tipografia-enredos-hilo2.jpg" alt="@title-eng - Details thread type">
+<div class="titulo-imgs">
+<span class="cst">Detalle</span><br>
+<span class="eng">Detail</span>
+</div>

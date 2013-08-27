@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<!-- HTML5 Mobile Boilerplate -->
+<!--[if IEMobile 7]><html class="no-js iem7"><![endif]-->
+<!--[if (gt IEMobile 7)|!(IEMobile)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+
+<!-- HTML5 Boilerplate -->
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+
+<head>
+
+	<meta charset="utf-8">
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <META NAME="Description" CONTENT="Chucho A.Nieto · Freelance graphic designer based in Leeds/Birmingham  ·  Creative ideas for small and medium companies looking for something different.">
+    <META NAME="Keywords" CONTENT="diseño gráfico, graphic design, freelance, portfolio, portafolio, web, logo, logotipo, logotype, publicidad, adds, advertising, packaging, tipografía, type, typography, identidad corporativa, identity, bussiness, cocina, kitchen, ideas, valladolid, leeds, castilla y león, yorkshire, cocinadeideas">
+    <META NAME="Revisit-After" CONTENT="30">
+    <META NAME="Robots" CONTENT="INDEX,FOLLOW">        
+
+	<META http-equiv="cleartype" content="on">
+	<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+    <link rel="icon" href="./templates/img/favicon-carne.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="./templates/img/favicon-carne.ico" type="image/x-icon"> 
+
+	<!-- Responsive and mobile friendly stuff -->
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="templates/css/html5reset.css" media="all">
+	<link rel="stylesheet" href="templates/css/responsivegridsystem.css" media="all">
+	<link rel="stylesheet" href="templates/css/col.css" media="all">
+	<link rel="stylesheet" href="templates/css/12cols.css" media="all">
+    
+    <link rel="stylesheet" href="./templates/estilo-general.css" media="all">
+    <link rel="stylesheet" href="./templates/estilo-carne.css" media="all">
+
+
+	<!-- Responsive Stylesheets -->
+	<link rel="stylesheet" media="only screen and (max-width: 1024px) and (min-width: 769px)" href="templates/css/1024.css">
+	<link rel="stylesheet" media="only screen and (max-width: 768px) and (min-width: 481px)" href="templates/css/768.css">
+	<link rel="stylesheet" media="only screen and (max-width: 480px)" href="templates/css/480.css">
+
+	<!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements and feature detects -->
+	<script src="templates/js/modernizr-2.5.3-min.js"></script>
+    
+    
+	
+
+</head>
+
+<body>
+
+<div id="skiptomain"><a href="#maincontent">skip to main content</a></div>
+
+<div id="wrapper">
+	<div id="maincontentcontainer">
+		<div id="maincontent">
+        
+        	<div id="menu">
+	<div class="textotest"></div>
+    <div class="map" style="display:block; position:relative; padding:0px; width:615px; height:300px; background:url('./templates/img/menu-design-carne.png') no-repeat scroll 0% 0%;">
+      
+    <canvas width="615" height="300" style="position: absolute; left: 0px; top: 0px; padding: 0px; border: 0px none;"></canvas>
+    <canvas width="615" height="300" style="width: 650px; height: 350px; position: absolute; left: 0px; top: 0px; padding: 0px; border: 0px none; opacity: 1;"></canvas>
+                                
+    <img style="opacity: 0; position: absolute; left: 0px; top: 0px; padding: 0px; border: 0px none;" src="./templates/img/menu-design-carne.png" class="map maphilighted" usemap="#simple" width="615" height="300" alt="menu trabajos">
+                            
+    </div>
+                        
+                        <map name="simple">
+                        
+                          <area id="areatypography" href="#Typography" alt="tipografía - typography" shape="poly" COORDS="385,169,386,169,388,170,389,170,390,171,392,172,393,173,395,174,396,175,396,175,395,175,394,175,392,175,391,175,389,176,386,176,384,176,382,176,380,176,378,176,376,177,375,177,373,177,372,177,371,178,368,178,364,179,358,181,352,182,344,183,337,184,330,185,323,185,316,185,309,183,302,182,295,180,288,178,282,177,278,175,274,175,274,175,274,175,274,175,274,175,274,175,274,175,274,175,274,175,274,174,274,174,274,173,275,173,275,172,275,172,275,172,275,171,275,171,275,171,275,171,275,171,275,171,275,171,275,171,275,171,279,169,283,165,287,160,291,153,294,146,297,137,299,128,300,118,300,117,300,116,299,116,299,115,299,115,299,114,299,113,299,113,299,113,299,113,299,113,299,113,299,113,299,113,299,113,299,113,315,116,330,118,343,119,354,119,364,118,373,117,380,116,385,114,384,120,383,126,383,132,383,138,383,145,384,153,385,161,387,169,387,169,386,169,386,169,386,169,386,169,385,169,385,169,385,169" class="area">
+                          
+                          <area id="areaprint" href="#Print" alt="print"  shape="poly" coords="165,158,164,158,163,158,161,159,160,159,158,159,157,159,155,159,153,159,148,159,143,158,139,157,134,155,131,153,127,151,125,149,124,148,124,146,124,146,124,145,126,145,127,145,128,145,130,146,131,146,133,145,136,145,140,144,145,141,150,138,155,134,161,128,166,120,167,119,167,117,168,116,169,114,170,113,171,111,172,110,173,109,173,109,173,109,174,109,174,109,174,109,174,109,174,110,175,110,179,113,184,116,189,120,193,123,198,126,203,129,208,133,212,136,213,143,214,150,215,157,216,164,217,171,218,177,219,184,220,191,220,191,220,192,220,192,220,192,220,192,220,192,221,193,221,193,219,193,218,194,217,195,216,195,214,195,213,196,212,196,210,196,206,199,202,201,198,204,193,207,189,210,184,212,180,213,176,214,172,214,169,215,167,216,166,217,166,217,165,218,164,218,162,218,160,218,158,217,155,216,153,215,150,213,149,211,147,209,147,207,147,206,148,205,149,204,150,204,151,203,152,203,153,202,154,201,155,199,156,196,158,192,160,188,162,184,163,180,165,176,165,174,165,171,166,169,166,167,166,165,166,163,166,161,165,159,165,158,165,158,165,158,165,158,165,158,165,158,165,158,165,158,165,158"  class="area">
+                          
+                          <area id="areapackaging" href="#Packaging" alt="packaging"  shape="poly" coords="429,65,429,65,429,65,429,65,429,65,429,65,429,65,429,65,429,65,426,66,421,68,415,72,408,77,401,83,395,91,389,102,385,114,380,116,373,117,364,118,354,119,343,119,330,118,315,116,299,113,299,113,299,113,299,113,299,113,299,113,299,113,299,113,299,113,297,106,294,100,290,94,285,89,279,85,274,82,268,81,263,80,257,80,251,82,246,84,241,87,236,92,231,98,228,105,225,113,223,122,223,131,224,139,226,146,229,153,232,160,237,165,242,170,243,171,243,172,243,173,244,173,244,174,245,175,245,176,246,177,244,178,243,179,242,180,240,181,239,182,237,183,235,183,233,184,232,184,232,184,232,184,232,184,231,184,231,184,231,184,230,184,229,185,228,186,227,187,226,189,225,190,223,191,222,192,221,193,221,193,220,192,220,192,220,192,220,192,220,192,220,191,220,191,219,184,218,177,217,170,216,164,215,157,214,150,213,143,212,136,208,133,203,129,198,126,193,123,189,120,184,116,179,113,175,110,174,109,174,109,174,109,174,109,174,109,174,109,173,109,173,109,179,101,185,94,191,88,198,82,205,77,211,72,218,68,225,65,238,60,254,56,272,53,291,51,310,49,328,49,343,48,354,49,362,50,370,51,380,52,389,53,399,55,410,58,420,61,429,65"  class="area">
+                          
+                          <area id="areaidentity" href="#Identity" alt="identidad - identity"  shape="poly" coords="493,100,492,98,490,96,489,95,487,94,486,94,485,93,484,93,483,93,482,91,480,90,478,89,475,88,473,88,471,88,468,88,467,89,465,90,464,90,463,90,462,89,460,88,459,87,457,85,455,83,452,80,449,77,446,75,443,73,440,70,437,68,433,67,429,65,429,65,429,65,429,65,429,65,429,65,429,65,429,65,429,65,426,66,421,68,415,72,408,77,401,83,395,91,389,102,385,114,384,120,383,126,383,132,383,138,383,145,384,153,385,161,387,169,387,169,386,169,386,169,386,169,386,169,385,169,385,169,385,169,386,169,388,170,389,170,390,171,392,172,393,173,395,174,396,175,396,175,396,175,396,175,396,175,396,175,396,175,396,175,396,175,397,176,399,177,400,179,401,180,403,181,404,183,405,184,406,186,406,186,406,186,406,186,407,186,407,186,407,186,407,186,407,186,408,188,409,189,410,190,411,192,412,193,413,194,414,195,415,196,415,197,415,198,416,199,416,199,416,200,416,201,417,202,417,203,417,203,417,203,417,202,417,202,417,202,417,202,418,202,418,202,418,203,420,203,422,203,425,203,428,203,432,203,436,202,440,200,440,200,440,200,440,200,440,200,440,200,440,200,440,200,440,200,441,199,441,198,441,197,441,196,441,195,441,194,440,194,439,193,438,192,437,191,437,190,436,188,436,187,435,185,435,183,435,180,438,179,441,175,444,171,448,166,451,161,455,155,458,150,460,145,461,140,463,134,464,126,464,119,465,112,465,106,465,102,465,99,466,98,466,97,467,96,469,96,471,95,472,95,474,95,476,95,475,95,474,96,473,96,471,97,471,98,470,99,469,101,469,102,469,104,469,105,470,107,471,108,472,110,474,110,476,111,479,110,481,110,482,108,483,107,484,106,485,104,485,102,486,100,485,98,485,98,485,98,485,98,485,98,485,98,485,98,486,98,486,98,486,99,487,99,488,100,488,100,489,101,489,102,490,103,490,104,490,105,491,107,491,108,491,109,491,110,491,111,491,111,492,110,493,109,493,108,494,107,494,105,494,104,494,103,493,101,493,100,479,104,478,105,478,106,477,106,476,106,475,106,475,105,475,105,474,104,474,103,475,102,475,101,476,100,477,100,478,99,479,99,480,99,480,99,480,99,480,99,480,99,480,99,480,99,480,99,480,99,480,99,480,100,480,101,480,102,480,102,480,103,480,104,479,104"  class="area">
+
+                          <area id="areadigital" href="#Digital" alt="digital"  shape="poly" coords="275,171,275,172,275,172,275,172,275,173,274,173,274,174,274,174,274,175,273,177,272,179,272,181,271,183,270,186,269,188,269,190,268,193,264,193,260,193,257,193,255,192,253,192,251,191,250,191,250,191,250,191,250,191,249,191,249,191,249,191,249,191,249,191,249,191,249,190,249,190,249,189,249,189,249,188,249,188,249,187,249,187,248,186,248,185,248,184,248,183,248,182,248,181,248,181,248,180,247,180,247,180,247,179,247,179,246,178,246,178,246,177,246,177,245,176,245,175,244,174,244,174,243,173,243,172,243,171,242,170,237,165,232,160,229,153,226,146,224,139,223,131,223,122,225,113,228,105,231,98,236,92,240,87,246,84,251,82,257,80,263,80,268,81,274,82,279,85,285,89,290,94,294,100,297,106,299,113,299,113,299,114,299,115,299,115,299,116,299,116,300,117,300,118,299,128,297,137,294,146,291,153,287,160,283,165,279,169,275,171,275,171,275,171,275,171,275,171,275,171,275,171,275,171,275,171"  class="area">
+
+                          <area id="areavarious1" href="#Various" alt="various - varios"  shape="poly" coords="440,200,436,202,432,203,428,203,425,203,422,203,420,203,418,203,418,202,418,202,417,202,417,202,417,202,417,203,417,203,417,203,417,203,417,207,416,211,415,215,413,218,412,222,410,224,409,226,408,228,407,228,406,229,406,230,405,231,405,232,404,232,404,233,404,233,404,233,404,233,403,233,403,233,402,234,402,234,401,235,401,235,400,236,399,237,397,238,395,239,394,240,392,241,391,242,390,242,392,243,393,243,394,243,394,243,395,243,396,243,396,243,397,242,396,243,395,243,395,244,394,244,393,244,393,245,392,245,392,245,394,247,397,248,400,248,403,248,406,248,409,247,411,247,413,246,415,245,416,244,416,244,416,244,417,244,417,244,417,244,418,245,418,245,419,246,420,246,420,245,421,245,421,245,422,244,422,243,423,243,423,242,424,241,424,241,424,240,424,239,425,237,426,235,426,233,426,230,428,226,429,222,431,217,433,214,434,210,435,209,436,208,436,207,437,206,437,205,438,204,438,203,439,202,440,201,440,201,440,201,440,201,440,200,440,200,440,200,440,200,440,200,440,200,440,200,440,200,440,200,440,200,440,200,440,200,440,200"  data-maphilight='{"groupBy":".grupo"}' class="grupo">
+
+                          <area id="areavarious2" href="#Various" alt="various - varios"  shape="poly" coords="407,187,407,187,407,187,407,187,407,187,407,186,407,186,407,186,407,186,407,186,407,186,407,186,407,186,406,186,406,186,406,186,406,186,406,186,406,186,406,186,406,186,406,186,406,186,406,186,406,186,402,187,399,187,395,186,392,186,389,185,387,184,386,184,385,184,385,184,385,184,384,184,384,184,384,184,384,184,384,184,384,184,383,186,383,189,383,191,382,193,382,196,381,198,381,199,380,201,379,203,378,205,377,207,376,209,375,210,373,212,372,213,371,214,370,215,370,216,369,217,369,218,369,218,368,219,368,219,367,219,366,219,365,220,364,222,362,223,360,225,359,226,357,227,355,228,354,229,354,230,355,230,356,230,357,230,358,231,359,231,360,231,361,231,363,231,366,231,369,231,372,231,375,231,377,230,378,230,379,229,379,228,378,227,377,226,376,225,376,224,376,224,376,224,377,224,378,225,379,225,380,225,381,225,382,225,383,223,384,221,385,222,385,222,386,223,387,224,387,224,388,225,389,225,389,224,389,224,389,222,390,220,390,218,390,216,391,214,391,212,392,211,393,209,395,206,397,203,400,199,402,194,405,191,406,188,407,187"  data-maphilight='{"groupBy":".grupo"}' class="grupo">
+
+                          <area id="areavarious3" href="#Various" alt="various - varios"  shape="poly" coords="250,191,250,191,250,191,249,191,249,191,249,191,249,191,249,191,249,191,249,190,249,190,249,189,249,189,249,188,249,188,249,187,249,187,246,188,243,189,241,189,238,188,236,188,235,187,234,187,233,187,233,187,233,187,233,187,233,187,233,187,233,187,232,187,232,187,232,188,232,190,232,192,231,194,231,195,231,197,230,198,230,199,230,200,229,202,228,204,228,206,227,208,226,210,226,211,226,211,225,212,225,213,225,213,224,214,224,215,224,215,223,216,223,217,222,217,222,218,221,218,220,219,219,220,218,221,217,222,216,223,215,224,214,224,214,225,213,225,212,225,211,226,211,226,211,226,211,227,211,227,211,228,212,228,212,229,213,229,214,230,215,230,216,230,217,231,219,231,221,231,223,231,224,231,226,231,227,231,229,230,230,230,231,230,232,230,233,230,234,229,235,229,235,228,235,227,235,226,235,224,235,222,235,220,235,219,235,217,235,217,236,217,236,218,237,218,237,219,237,220,237,221,238,221,238,222,238,222,238,222,239,222,240,222,241,221,241,221,242,219,242,217,243,214,243,211,244,208,244,204,245,201,246,198,247,195,249,193,249,193,249,193,249,193,249,193,249,193,249,193,249,193,249,193,249,194,249,196,249,197,249,199,249,200,250,201,250,203,250,204,250,207,250,211,250,214,249,217,249,220,248,222,247,224,247,225,246,226,245,228,243,230,241,232,238,234,236,236,233,238,230,241,232,242,234,243,236,244,238,244,241,245,243,245,246,245,248,245,250,244,252,243,253,243,254,242,255,241,256,240,256,240,256,240,256,240,257,239,257,238,257,237,258,236,258,235,258,234,259,233,259,232,259,231,259,231,259,230,259,230,259,229,259,229,259,229,259,229,260,230,260,231,260,232,261,233,261,234,262,234,263,235,264,234,264,234,265,233,265,232,266,231,266,229,267,228,267,227,268,226,268,223,268,220,268,217,267,213,267,209,267,205,266,202,266,202,266,201,267,200,267,198,267,197,267,196,268,194,268,193,264,193,260,193,257,193,255,192,253,192,251,191,250,191,250,191"  data-maphilight='{"groupBy":".grupo"}' class="grupo">
+
+                        </map>
+
+
+                <div id="botones-menu">
+				<a href="#Typography" class="boton" id="botontypography"><span class="ocultablecst">tipografía<br /></span><span class="ocultableeng">typography</span></a>
+                <a href="#Print" class="boton" id="botonprint"><span class="ocultablecst">impreso<br /></span><span class="ocultableeng">print</span></a>
+                <a href="#Packaging" class="boton" id="botonpackaging"><span class="ocultablecst">packaging<br /></span><span class="ocultableeng">packaging</span></a>
+				<a href="#Identity" class="boton" id="botonidentity"><span class="ocultablecst">identidad<br /></span><span class="ocultableeng">identity</span></a>
+                <a href="#Digital" class="boton" id="botondigital"><span class="ocultablecst">digital<br /></span><span class="ocultableeng">digital</span></a>
+                <a href="#Various" class="boton" id="botonvarious"><span class="ocultablecst">varios<br /></span><span class="ocultableeng">various</span></a>
+				</div>      
+                         
+</div> <!--menu --> 
+        
+        
+            <div id="menusecundario" class="col span_12_of_12">
+                    <img src="./templates/img/cocina-de-ideas-logotipo-carne.png" alt="cocina de ideas graphic design logotype">
+					<!--                    
+                    <div id="secciones">
+                        <a href="#the-kitchen" class="auto ocultablecst">La cocina</a> <a href="#the-kitchen" class="auto ocultableeng">About the kitchen</a>
+                        <span class="pieseparador">·</span>
+                        <a href="#links" class="auto ocultablecst">Enlaces</a> <a href="#links" class="auto ocultableeng">Links</a>
+                        <span class="pieseparador">·</span>
+                        <a href="#contact" class="auto ocultablecst">Contacto</a> <a href="#contact" class="auto ocultableeng">Contact</a>
+                    </div>
+                    -->
+            </div>
+
+               
+    <div class="col span_12_of_12">
+        <h1 id="Identity">
+        <span class="ocultablecst">Identidad</span>
+        <span class="ocultableeng">Identity</span>
+        </h1>
+    </div>
+ 
+  
+    <div class="section group">
+          
+                <div class="col span_4_of_12">
+
+                <a href="./identidad/leeds-visual-arts-forum/"><img src="./content/10.identidad/7.leeds-visual-arts-forum/thumb.jpg" alt="Leeds visual arts forum" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2012</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./identidad/leeds-visual-arts-forum/">Leeds visual arts forum</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./identidad/leeds-visual-arts-forum/">Leeds visual arts forum</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./identidad/exuru/"><img src="./content/10.identidad/6.exuru/thumb.jpg" alt="Exuru deals" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2012</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./identidad/exuru/">Exuru deals</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./identidad/exuru/">Exuru deals</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./identidad/100x100/"><img src="./content/10.identidad/5.100x100/thumb.jpg" alt="100x100" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2011</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./identidad/100x100/">100x100</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./identidad/100x100/">100x100</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./identidad/cacv/"><img src="./content/10.identidad/4.cacv/thumb.jpg" alt="CACV · Contemporary art center" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2009</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./identidad/cacv/">CACV · Centro arte contemporáneo</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./identidad/cacv/">CACV · Contemporary art center</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./identidad/quimbio/"><img src="./content/10.identidad/2.quimbio/thumb.jpg" alt="Quimbio" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2009</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./identidad/quimbio/">Quimbio</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./identidad/quimbio/">Quimbio</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./identidad/white-marketing/"><img src="./content/10.identidad/2.white-marketing/thumb.jpg" alt="White marketing" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2011</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./identidad/white-marketing/">White marketing</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./identidad/white-marketing/">White marketing</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./identidad/varios/"><img src="./content/10.identidad/1.varios/thumb.jpg" alt="Various" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2012</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./identidad/varios/">Varios</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./identidad/varios/">Various</a></h3>
+                </div>
+	    </div>
+         
+    
+    
+     
+    <div class="col span_12_of_12">
+        <h1 id="Packaging">
+        <span class="ocultablecst">Packaging</span>
+        <span class="ocultableeng">Packaging</span>
+        </h1>
+    </div>
+ 
+  
+    <div class="section group">
+          
+                <div class="col span_4_of_12">
+
+                <a href="./packaging/frutas-milikito-platano-infantil/"><img src="./content/9.packaging/3.frutas-milikito-platano-infantil/thumb.jpg" alt="Milikito fruit company · Banana" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2009</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./packaging/frutas-milikito-platano-infantil/">Frutas Milikito · Plátano</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./packaging/frutas-milikito-platano-infantil/">Milikito fruit company · Banana</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./packaging/even-dia-de-cine/"><img src="./content/9.packaging/2.even-dia-de-cine/thumb.jpg" alt="EVEN · Cinema day" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2009</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./packaging/even-dia-de-cine/">EVEN · Día de cine</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./packaging/even-dia-de-cine/">EVEN · Cinema day</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./packaging/centro-arte-contemporaneo-vancouver/"><img src="./content/9.packaging/1.centro-arte-contemporaneo-vancouver/thumb.jpg" alt="CACV · Reusable pack" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2009</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./packaging/centro-arte-contemporaneo-vancouver/">CACV · Pack reutilizable</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./packaging/centro-arte-contemporaneo-vancouver/">CACV · Reusable pack</a></h3>
+                </div>
+	    </div>
+         
+    
+    
+     
+    <div class="col span_12_of_12">
+        <h1 id="Typography">
+        <span class="ocultablecst">Tipografía</span>
+        <span class="ocultableeng">Typography</span>
+        </h1>
+    </div>
+ 
+  
+    <div class="section group">
+          
+                <div class="col span_4_of_12">
+
+                <a href="./tipografia/ayuda-humanitaria/"><img src="./content/8.tipografia/7.ayuda-humanitaria/thumb.jpg" alt="Humanitarian help" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2011</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./tipografia/ayuda-humanitaria/">Ayuda humanitaria</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./tipografia/ayuda-humanitaria/">Humanitarian help</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./tipografia/enredos-de-dos/"><img src="./content/8.tipografia/6.enredos-de-dos/thumb.jpg" alt="Enredos de dos" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2009</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./tipografia/enredos-de-dos/">Enredos de dos</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./tipografia/enredos-de-dos/">Enredos de dos</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./tipografia/nightbook-lettering-ludovico-einaudi/"><img src="./content/8.tipografia/5.nightbook-lettering-ludovico-einaudi/thumb.jpg" alt="Ludovico Einaudi - Nightbook" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2011</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./tipografia/nightbook-lettering-ludovico-einaudi/">Ludovico Einaudi - Nightbook</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./tipografia/nightbook-lettering-ludovico-einaudi/">Ludovico Einaudi - Nightbook</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./tipografia/tipo-en-la-cabeza/"><img src="./content/8.tipografia/4.tipo-en-la-cabeza/thumb.jpg" alt="With typography into the head" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2011</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./tipografia/tipo-en-la-cabeza/">Con la tipo en la cabeza</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./tipografia/tipo-en-la-cabeza/">With typography into the head</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./tipografia/tipografia-gaseosa/"><img src="./content/8.tipografia/3.tipografia-gaseosa/thumb.jpg" alt="Gaseosa font" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2011</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./tipografia/tipografia-gaseosa/">Tipografía Gaseosa</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./tipografia/tipografia-gaseosa/">Gaseosa font</a></h3>
+                </div>
+	    </div>
+         
+    
+    
+     
+    <div class="col span_12_of_12">
+        <h1 id="Print">
+        <span class="ocultablecst">Impreso</span>
+        <span class="ocultableeng">Print</span>
+        </h1>
+    </div>
+ 
+  
+    <div class="section group">
+          
+                <div class="col span_4_of_12">
+
+                <a href="./print/carlos-siles-cuantas-veces-habre-intentado/"><img src="./content/7.print/5.carlos-siles-cuantas-veces-habre-intentado/thumb.jpg" alt="Carlos Siles" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2008</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./print/carlos-siles-cuantas-veces-habre-intentado/">Carlos Siles</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./print/carlos-siles-cuantas-veces-habre-intentado/">Carlos Siles</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./print/hawaiian-tropic/"><img src="./content/7.print/4.hawaiian-tropic/thumb.jpg" alt="Hawaiian Tropic · Summer campaign" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2010</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./print/hawaiian-tropic/">Hawaiian Tropic · Campaña de verano</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./print/hawaiian-tropic/">Hawaiian Tropic · Summer campaign</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./print/fiesta-de-la-musica/"><img src="./content/7.print/3.fiesta-de-la-musica/thumb.jpg" alt="Live music festival" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2010</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./print/fiesta-de-la-musica/">Fiesta de la música</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./print/fiesta-de-la-musica/">Live music festival</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./print/las-patatas-del-abuelo/"><img src="./content/7.print/2.las-patatas-del-abuelo/thumb.jpg" alt="Prefried potatoes campaign" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2010</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./print/las-patatas-del-abuelo/">Campaña patatas prefritas</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./print/las-patatas-del-abuelo/">Prefried potatoes campaign</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./print/ilustracion-historia-michelin/"><img src="./content/7.print/1.ilustracion-historia-michelin/thumb.jpg" alt="Bibendum, Michelin's soul" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2010</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./print/ilustracion-historia-michelin/">Bibendum, el alma de Michelin</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./print/ilustracion-historia-michelin/">Bibendum, Michelin's soul</a></h3>
+                </div>
+	    </div>
+         
+    
+    
+     
+    <div class="col span_12_of_12">
+        <h1 id="Digital">
+        <span class="ocultablecst">Digital</span>
+        <span class="ocultableeng">Digital</span>
+        </h1>
+    </div>
+ 
+  
+    <div class="section group">
+          
+                <div class="col span_4_of_12">
+
+                <a href="./digital/exuru-deals/"><img src="./content/6.digital/5.exuru-deals/thumb.jpg" alt="Exuru" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2012</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./digital/exuru-deals/">Exuru</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./digital/exuru-deals/">Exuru</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./digital/relibrea-libros-segunda-mano/"><img src="./content/6.digital/4.relibrea-libros-segunda-mano/thumb.jpg" alt="Relibrea" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2012</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./digital/relibrea-libros-segunda-mano/">Relibrea</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./digital/relibrea-libros-segunda-mano/">Relibrea</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./digital/quimbio-desinfeccion-valladolid/"><img src="./content/6.digital/3.quimbio-desinfeccion-valladolid/thumb.jpg" alt="Quimbio" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2010</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./digital/quimbio-desinfeccion-valladolid/">Quimbio</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./digital/quimbio-desinfeccion-valladolid/">Quimbio</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./digital/white-marketing/"><img src="./content/6.digital/2.white-marketing/thumb.jpg" alt="White Marketing" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2011</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./digital/white-marketing/">White Marketing</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./digital/white-marketing/">White Marketing</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./digital/vepisa-opel-valladolid/"><img src="./content/6.digital/1.vepisa-opel-valladolid/thumb.jpg" alt="Vepisa · Opel (Vauxhall) Valladolid" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2011</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./digital/vepisa-opel-valladolid/">Vepisa · Opel Valladolid</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./digital/vepisa-opel-valladolid/">Vepisa · Opel (Vauxhall) Valladolid</a></h3>
+                </div>
+	    </div>
+         
+    
+    
+     
+    <div class="col span_12_of_12">
+        <h1 id="Various">
+        <span class="ocultablecst">Varios</span>
+        <span class="ocultableeng">Various</span>
+        </h1>
+    </div>
+ 
+  
+    <div class="section group">
+          
+                <div class="col span_4_of_12">
+
+                <a href="./varios/placebo-videoclip/"><img src="./content/5.varios/3.placebo-videoclip/thumb.jpg" alt="Placebo · Pure morning videoclip" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2010</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./varios/placebo-videoclip/">Placebo · Pure morning videoclip</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./varios/placebo-videoclip/">Placebo · Pure morning videoclip</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./varios/mesa-bauhaus-bautisch/"><img src="./content/5.varios/2.mesa-bauhaus-bautisch/thumb.jpg" alt="Bautisch · Conceptual desk" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2010</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./varios/mesa-bauhaus-bautisch/">Bautisch · Mesa conceptual</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./varios/mesa-bauhaus-bautisch/">Bautisch · Conceptual desk</a></h3>
+                </div>
+	    </div>
+                 <div class="col span_4_of_12">
+
+                <a href="./varios/stopmotion-paperkraft-una-historia-en-cada-paso/"><img src="./content/5.varios/1.stopmotion-paperkraft-una-historia-en-cada-paso/thumb.jpg" alt="A story at each step" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">2010</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="./varios/stopmotion-paperkraft-una-historia-en-cada-paso/">Una historia en cada paso</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="./varios/stopmotion-paperkraft-una-historia-en-cada-paso/">A story at each step</a></h3>
+                </div>
+	    </div>
+         
+    
+    
+  <br><br>
+
+
+
+			<div class="section group">
+				<div class="col span_6_of_12">
+				1 of 2
+				</div>
+				<div class="col span_6_of_12">
+				1 of 2
+				</div>
+			</div>
+
+			<div class="section group">
+            	<div class="col span_1_of_12">1</div>
+            	<div class="col span_1_of_12">1</div>
+            	<div class="col span_1_of_12">1</div>
+            	<div class="col span_1_of_12">1</div>
+            	<div class="col span_1_of_12">1</div>
+            	<div class="col span_1_of_12">1</div>
+            	<div class="col span_1_of_12">1</div>
+            	<div class="col span_1_of_12">1</div>
+            	<div class="col span_1_of_12">1</div>
+            	<div class="col span_1_of_12">1</div>
+            	<div class="col span_1_of_12">1</div>
+            	<div class="col span_1_of_12">1</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+
+
+	<!-- JavaScript at the bottom for fast page loading -->
+
+	<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="templates/js/jquery-1.7.2.min.js"><\/script>')</script>
+
+	<!--[if (lt IE 9) & (!IEMobile)]>
+	<script src="js/selectivizr-min.js"></script>
+	<![endif]-->
+
+
+	<!-- More Scripts-->
+	<script src="templates/js/responsivegridsystem.js"></script>
+    
+	<script type="text/javascript" src="./templates/js/funciones.web.js"></script>
+    <script type="text/javascript" src="./templates/js/easing.totop.tipsy.js"></script>
+    <script type="text/javascript" src="./templates/js/jquery.maphilight.js"></script>
+
+
+	<script>
+		$(document).ready(function(){
+			  detectaridioma(), abrir();
+		})
+    </script>
+
+</body>
+</html>
+<!-- Stacey(2.3.0): fc68eff447207fdf8036e963e3353a65 -->

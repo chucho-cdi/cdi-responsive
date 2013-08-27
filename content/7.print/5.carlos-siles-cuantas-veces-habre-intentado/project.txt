@@ -1,0 +1,42 @@
+tipo-proyecto: Print
+-
+title-cst: Carlos Siles
+-
+title-eng: Carlos Siles
+-
+date: 2008
+-
+image-portada:
+<img src="../../../imagenes-trabajos/print-carlos-siles/carlos-siles-cuantas-veces-habre-intentado-cd1.png" alt="@title-eng - Cuantas veces habré intentado que juegues conmigo album cover">
+-
+descrip-cst: 
+Cuántas veces habré intentado que juegues conmigo, disco debut del cantautor Carlos Siles.
+</br></br>
+Fotografía base de la portada por Luisa Moran.
+
+<br>CLAVES DEL PROYECTO<br>
+Intimidad / tranquilidad / implicación
+-
+descrip-eng: 
+Cuántas veces habré intentado que juegues conmigo ('How many times have I tried you to play with me'), debut album of the singer-songwriter Carlos Siles.
+</br></br>
+Original cover picture by Luisa Moran.
+
+<br>PROYECT KEYS<br>
+Closeness / calm / involvement
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/print-carlos-siles/carlos-siles-cuantas-veces-habre-intentado-cd2.png" alt="@title-eng portada disco">
+<img src="../../../imagenes-trabajos/print-carlos-siles/carlos-siles-cuantas-veces-habre-intentado-cd3.png" alt="@title-eng contraportada disco">
+<div class="titulo-imgs">
+<span class="cst">Portada y contraportada</span><br>
+<span class="eng">Cover and back cover</span>
+</div>
+
+<img src="../../../imagenes-trabajos/print-carlos-siles/carlos-siles-cuantas-veces-habre-intentado-cd4.png" alt="@title-eng album cd on Spotify">
+<div class="titulo-imgs">
+<span class="cst">Puedes escucharlo en <a href="http://open.spotify.com/album/3HMrqRNUOQPHS9WNmLx04D" class="cst enlacetexto">Spotify</a></span><br>
+<span class="eng">You can listen it on <a href="http://open.spotify.com/album/3HMrqRNUOQPHS9WNmLx04D" class="eng enlacetexto">Spotify</a></span>
+</div>

@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>COCINADEIDEAS  //  The Test Project 1-cst - The Test Project 1-eng</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+
+        <link href="../estilo-general.css" rel="stylesheet" type="text/css">
+        <link href="./templates/estilo-carne.css" rel="stylesheet" type="text/css">
+
+
+		<script type="text/javascript" src="./templates/js/jquery.min.1.5.0.js"></script>
+        <script type="text/javascript" src="./templates/js/easing.js"></script>
+		<script type="text/javascript" src="./templates/js/jquery.ui.totop.js"></script>
+            
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $().UItoTop({ easingType: 'easeOutQuart' });
+            });
+        </script>
+
+		 
+        <link rel="icon" href="./templates/img/favicon-carne.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="./templates/img/favicon-carne.ico" type="image/x-icon"> 
+
+        
+	</head>
+    
+	<body>
+		<div id="container">
+        
+        	<div id="logo"><a href="./"><img src="./templates/img/cocina-de-ideas-logotipo-carne.jpg" width="365" height="68" alt="cocina de ideas logotipo"></a></div>
+            <div id="cambio-menu"><img src="./templates/img/opcion-vegetal.png" width="64" height="62" alt="opción vegetal"></div>
+
+        
+			<!-- <p class="col six"><em>   
+  
+  
+  
+  
+      <a href="./?/contacto/">About</a>,
+  
+      <a href="./?/la-cocina/">Contact details</a>,
+  
+ </em></p> -->
+           
+           	<div id="trabajo">
+            	@image-portada
+            
+                <div id="titulo">
+                    <span class="cst">The Test Project 1-cst</span><br>
+                    <span class="eng">The Test Project 1-eng</span><br>
+                </div>
+                
+                <div id="descripcion1" class="cst">@descrip-cst</div>
+                <div id="descripcion2" class="eng">@descrip-eng</div> 
+                
+                
+                <div id="controles">
+                                                                                  <a href="./?/packaging/swf-project-6/">&larr;</a>
+                              
+                                                          <a href="./?/packaging/project-name-2/">&rarr;</a>
+                                                   
+                        
+                        <br>
+                        <a href="./">&#8855;</a>                
+                </div>
+            
+            </div>          
+  
+  			<div id="material-grafico">@images <div id="media">
+      	<div class="image">
+		<img src="./content/7.packaging/10.project-1/04.jpg" alt="The Test Project 1" width="540" height="430">
+    
+	</div>
+	<div class="image">
+		<img src="./content/7.packaging/10.project-1/03.jpg" alt="The Test Project 1" width="540" height="450">
+    
+	</div>
+	<div class="image">
+		<img src="./content/7.packaging/10.project-1/02.jpg" alt="The Test Project 1" width="540" height="430">
+    
+	</div>
+	<div class="image">
+		<img src="./content/7.packaging/10.project-1/01.jpg" alt="The Test Project 1" width="540" height="430">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div></div>
+                       
+                       
+            <div id="botontop"> </div>
+                       
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 391077c3de9cf3dc6dc5c582c3713a0b -->

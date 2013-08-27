@@ -1,0 +1,166 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">   
+        
+<title>@tipo-proyecto design · @title-eng | COCINADEIDEAS</title>
+
+    <META NAME="Description" CONTENT="Cocina de ideas · Freelance graphic designer based in Leeds, West Yorkshire · Creative ideas for small/medium companies looking for something different">
+    <META NAME="Keywords" CONTENT="diseño gráfico, graphic design, freelance, portfolio, portafolio, web, logo, logotipo, logotype, publicidad, adds, advertising, packaging, tipografía, type, typography, identidad corporativa, identity, bussiness, cocina, kitchen, ideas, valladolid, leeds, castilla y león, yorkshire, cocinadeideas">
+    <META NAME="Revisit-After" CONTENT="30">
+    <META NAME="Robots" CONTENT="INDEX,FOLLOW">        
+
+		<meta property ='og:site_name' content = 'Cocina de ideas'/>
+        <meta property ='og:url' content = 'www.cocinadeideas.net/new/menu-carne/@permalink'/>
+        <meta property ='og:title' content = 'COCINA DE IDEAS · @tipo-proyecto design'/>
+        <meta property ='og:type' content = 'website'/>
+        <meta property ='og:location' content = 'Leeds, UK'/>
+        <meta property ='og:description' content = '@title-eng'/> 
+
+
+		<link rel="alternate" type="application/atom+xml" href="@root_path/?/feed/">
+        
+		<link href="@root_path/public/docs/css/screen.css" type="text/css" rel="stylesheet" media="screen"> 
+        <link href="@root_path/../estilo-general.css" rel="stylesheet" type="text/css">
+        <link href="@root_path/templates/estilo-carne.css" rel="stylesheet" type="text/css">
+        
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    	<script type="text/javascript" src="@root_path/templates/js/easing.totop.tipsy.js"></script>
+		<script type="text/javascript" src="@root_path/templates/js/funciones.web.js"></script>
+     
+       	<script>
+			$(document).ready(function(){
+				  detectaridioma(), detectarmovil();
+			})
+    	</script>
+        
+       	<!-- Controles específicos navegadores móviles-->
+       	<script type="text/javascript">
+		function detectarmovil() {	
+			var navegador = navigator.userAgent.toLowerCase();
+			if( navegador.search(/iphone|ipod|ipad|android|mobile|crios/) > -1 ){
+				$('#controlesnav').hide(),
+				$('#mobile-controls').show();
+			}
+			else{
+				$('#mobile-controls').hide();
+				$('#mobile-controls').css("opacity","0");
+			}
+		}
+		</script>
+
+     
+            
+		 
+        <link rel="icon" href="@root_path/templates/img/favicon-carne.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="@root_path/templates/img/favicon-carne.ico" type="image/x-icon"> 
+              
+              
+              
+              
+        <script type="text/javascript">
+        
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-5444718-4']);
+          _gaq.push(['_trackPageview']);
+        
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        
+        </script>      
+        
+	</head>
+    
+	<body>
+		<div id="container">
+        
+            <div id="toppagina"></div>
+            
+            <div id="content">
+                 
+                
+                    <div class="miniaturastitulo" style="margin-bottom:18px">
+                    <h1><span class="ocultablecst">@title-cst</span><span class="ocultableeng">@title-eng</span></h1>
+                    
+                            <div id="controlesnav" class="controles">
+
+                                if $siblings do
+                                    foreach $next_sibling do
+                                      <a href="@url" class="controles ocultablecst" rel="bookmark" title='@title-cst'>
+                                      <img src="@root_path/templates/img/transp.gif" class="navegacion-der" alt="siguiente trabajo">
+                                      </a>
+                                      <a href="@url" class="controles ocultableeng" rel="bookmark" title='@title-eng'>
+                                      <img src="@root_path/templates/img/transp.gif" class="navegacion-der" alt="next project">
+                                      </a>
+                                    endforeach
+                                endif      
+                                        <a href="@root_path/#@tipo-proyecto" class="controles ocultablecst" rel="bookmark" title='VOLVER'>
+                                        <img src="@root_path/templates/img/transp.gif" class="navegacion-return" alt="volver">
+                                        </a> 
+                                        <a href="@root_path/#@tipo-proyecto" class="controles ocultableeng" rel="bookmark" title='RETURN'>
+                                        <img src="@root_path/templates/img/transp.gif" class="navegacion-return" alt="return">
+                                        </a> 
+                                        
+                                if $siblings do
+                                    foreach $previous_sibling do
+                                      <a href="@url" class="controles ocultablecst" rel="bookmark" title='@title-cst'>
+                                      <img src="@root_path/templates/img/transp.gif" class="navegacion-izq" alt="trabajo anterior">
+                                      </a>
+                                      <a href="@url" class="controles ocultableeng" rel="bookmark" title='@title-eng'>
+                                      <img src="@root_path/templates/img/transp.gif" class="navegacion-izq" alt="previous project">
+                                      </a>                                    endforeach                       
+                                endif  
+                            </div> 
+                 	</div>      
+
+           
+           	
+            	@image-portada
+                
+                <div class="descripcion1 cst hyphenate" style="margin-bottom:40px">@descrip-cst</div>
+                <div class="descripcion2 eng hyphenate" style="margin-bottom:40px">@descrip-eng</div>
+                            
+            @images :media
+            :footer-trabajos<br><br>
+            </div><!-- content -->                         
+                           
+		</div><!-- container --> 
+        
+        
+	<div id="mobile-controls" style="display:none !important;">
+        	<div class="mobile-controls-close">
+              <a href="@root_path/#@tipo-proyecto" title='VOLVER / RETURN'>
+              <img src="@root_path/templates/img/transp.gif" alt="volver / return" width="60" height="60">
+              </a> 
+    		</div>
+            
+            <div class="mobile-controls-prev">
+                if $siblings do
+                  foreach $previous_sibling do
+                  <a href="@url" title='@title-cst'>
+                  <img src="@root_path/templates/img/transp.gif" alt="trabajo anterior / previous proyect" width="60" height="60">
+                  </a>  
+                   endforeach
+                endif
+            </div>
+            
+            <div class="mobile-controls-next">
+                if $siblings do
+                  foreach $next_sibling do
+                  <a href="@url" title='@title-cst'>
+                  <img src="@root_path/templates/img/transp.gif" alt="siguiente trabajo / next proyect" width="60" height="60">
+                  </a>
+                  endforeach
+                endif
+            </div>
+    </div> 
+
+ 
+	</body>
+</html>
+
+

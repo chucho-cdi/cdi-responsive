@@ -1,0 +1,55 @@
+tipo-proyecto: Typography
+-
+title-cst: Tipografía Gaseosa
+-
+title-eng: Gaseosa font
+-
+date: 2011
+-
+image-portada:
+<img src="../../../imagenes-trabajos/tipo-gaseosa/gaseosa-tipografia-presentacion.jpg" alt="@title-eng">
+-
+descrip-cst: 
+Gaseosa es una tipografía que evoca a las antiguas marcas de refrescos de los años 50. Logra diferenciarse del resto por su toque actual (con numerosos ángulos rectos y altos contrastes en las formas) sin perder los rasgos manuales, los trazos curvos y la angulación oblicua en sus letras.
+<br>
+Perfecta en pequeños encabezados o como punto de partida para elaborados lettering. 
+
+Seleccionada para el libro <a href="http://www.indexbook.com/libro.php?idLibro=1260"  class="cst enlacetexto">Select J</a>, de Indexbook - 2011
+-
+descrip-eng: 
+English translation coming soon!
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/tipo-gaseosa/gaseosa-caja-tipografica.jpg" alt="@title-eng - Typographyc set">
+<div class="titulo-imgs">
+<span class="cst">Caja tipográfica</span><br>
+<span class="eng">Typographyc set</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/tipo-gaseosa/gaseosa-proceso1.jpg" alt="@title-eng - Process">
+<div class="titulo-imgs">
+<span class="cst">PROCESO · Recuperación de letras y palabras dibujadas por quienes vivieron la época</span><br>
+<span class="eng">PROCESS · Recovery of different letters and words drawn by the people who lived the era</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/tipo-gaseosa/gaseosa-proceso2.jpg" alt="@title-eng - Sketches">
+<img src="../../../imagenes-trabajos/tipo-gaseosa/gaseosa-proceso3.jpg" alt="@title-eng - Sketches">
+<img src="../../../imagenes-trabajos/tipo-gaseosa/gaseosa-proceso4.jpg" alt="@title-eng - Sketches">
+<img src="../../../imagenes-trabajos/tipo-gaseosa/gaseosa-proceso5.jpg" alt="@title-eng - Sketches">
+<div class="titulo-imgs">
+<span class="cst">PROCESO · Bocetos y correcciones</span><br>
+<span class="eng">PROCESS · Sketches and adjustements</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/tipo-gaseosa/gaseosa-botellas1.jpg" alt="@title-eng - Packaging presentation bottles">
+<img src="../../../imagenes-trabajos/tipo-gaseosa/gaseosa-botellas2.jpg" alt="@title-eng - Packaging presentation bottles">
+<img src="../../../imagenes-trabajos/tipo-gaseosa/gaseosa-botellas3.jpg" alt="@title-eng - Packaging presentation bottles">
+<div class="titulo-imgs">
+<span class="cst">Botellas de presentación</span><br>
+<span class="eng">Presentation bottles</span>
+</div>

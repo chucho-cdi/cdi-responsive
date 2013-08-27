@@ -1,0 +1,29 @@
+tipo-proyecto: Typography
+-
+title-cst: Ayuda humanitaria
+-
+title-eng: Humanitarian help
+-
+date: 2011
+-
+image-portada:
+<img src="../../../imagenes-trabajos/tipo-tinta-ayuda-humanitaria/tipografia-tinta-ayuda-humanitaria1.png" alt="@title-eng lettering typography">
+-
+descrip-cst: 
+Huracanes. Letterings experimentales con tinta buscando completar visualmente el significado de cada palabra.
+
+Dibujados y tratados a mano.
+-
+descrip-eng: 
+Hurricanes. Experimental letterings with ink looking to visually complete the meaning of each word.
+
+Drawn and processed by hand.
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/tipo-tinta-ayuda-humanitaria/tipografia-tinta-ayuda-humanitaria2.png" alt="@title-eng - Flooding lettering">
+<div class="titulo-imgs">
+<span class="cst">Inundaciones</span><br>
+<span class="eng">Floods</span>
+</div>

@@ -1,0 +1,149 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>COCINADEIDEAS  |  The SWF Project 6-cst - The SWF Project 6-eng</title>
+
+
+        <META NAME="author" CONTENT="Cocinadeideas">
+        <META NAME="subject" CONTENT="negocios">
+        <META NAME="Description" CONTENT="Cocina de ideas · The SWF Project 6-cst - The SWF Project 6-eng">
+        <META NAME="Classification" CONTENT="Cocina de ideas | Diseño gráfico y comunicación visual | Freelance design in Valladolid and Leeds">
+        <META NAME="Keywords" CONTENT="diseño gráfico, graphic design, freelance, portfolio, portafolio, web, logo, logotipo, logotype, publicidad, adds, advertising, packaging, tipografía, type, typography, identidad corporativa, identity, bussiness, cocina, kitchen, ideas, valladolid, leeds, castilla y león, yorkshire, cocinadeideas">
+        <META NAME="Language" CONTENT="Castellano, English">
+        <META HTTP-EQUIV="Expires" CONTENT="never">
+        <META NAME="Revisit-After" CONTENT="30">
+        <META NAME="distribution" CONTENT="Global">
+        <META NAME="Robots" CONTENT="INDEX,FOLLOW">        
+
+
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+
+        <link href="../estilo-general.css" rel="stylesheet" type="text/css">
+        <link href="./templates/estilo-carne.css" rel="stylesheet" type="text/css">
+        <link href="./templates/tipsy.css" rel="stylesheet" type="text/css">
+        
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script type="text/javascript" src="./templates/js/easing.and.totop.js"></script>
+		<script type="text/javascript" src="./templates/js/jquery.tipsy.js"></script>
+
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $().UItoTop({ easingType: 'easeOutQuart' });
+            });
+        </script>
+        
+        
+		<script type='text/javascript'>
+			 $(function() {
+			   $('a[rel=izquierda]').tipsy({fade: true, gravity: 'ne'});
+			   $('a[rel=centro]').tipsy({fade: true, gravity: 'n'});
+			   $('a[rel=derecha]').tipsy({fade: true, gravity: 'nw'});
+			 });
+        </script>
+            
+        
+        <script>
+		<!--http://jqueryfordesigners.com/fixed-floating-elements/ -->
+			$(function () {
+			  
+			  var msie6 = $.browser == 'msie' && $.browser.version < 7;
+			  
+			  if (!msie6) {
+				var top = $('#titulo').offset().top - parseFloat($('#titulo').css('margin-top').replace(/auto/, 0));
+				$(window).scroll(function (event) {
+				  // what the y position of the scroll is
+				  var y = $(this).scrollTop();
+				  // whether that's below the form
+				  if (y >= top) {
+					// if so, ad the fixed class			
+					$('#titulo').addClass('fixed'),						 
+					$('#titulo').animate({"margin-top" : 18});
+					} else {
+					// otherwise remove it
+					$('#titulo').removeClass('fixed');
+				  }
+					});
+			  }  
+			});
+		</script>
+
+                
+        <style>
+        #titulo {position: absolute;top: 553px;}
+        #titulo.fixed {position: fixed;top: 0;}
+        </style>
+		 
+        <link rel="icon" href="./templates/img/favicon-carne.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="./templates/img/favicon-carne.ico" type="image/x-icon"> 
+
+        
+	</head>
+    
+	<body>
+		<div id="container">
+        
+        	<div id="logo"><a href="./"><img src="./templates/img/cocina-de-ideas-logotipo-carne.jpg" width="365" height="68" alt="cocina de ideas logotipo"></a></div>
+            <div id="cambio-menu"><a href="./templates/index-vegetal.html"><img src="./templates/img/opcion-vegetal.png" width="64" height="62" alt="opción vegetal"></a></div>
+          
+            <div id="titulo">
+                        <span class="cst">The SWF Project 6-cst</span><br>
+                        <span class="eng">The SWF Project 6-eng</span><br>
+                        <span class="controles">   
+                                                                                              <a href="./?/packaging/project-name-3/" class="controles" rel="izquierda" title='The Test Project 3-cst / The Test Project 3-eng'><img src="./templates/img/transp.gif" class="navegacion-izq"></a>
+                                
+                                  
+                                    <a href="./" class="controles" rel="centro" title='VOLVER / RETURN'><img src="./templates/img/transp.gif" class="navegacion-return"></a> 
+                                                                                              <a href="./?/packaging/centro-arte-contemporaneo-vancouver/" class="controles" rel="derecha" title='Centro de arte contemporáneo de Vancouver / Vancouver contemporary art centre'><img src="./templates/img/transp.gif" class="navegacion-der"></a>
+                                                       
+                              
+                        </span> 
+            </div>      
+
+           
+           	<div id="trabajo">
+            	@image-portada
+                
+                <div id="descripcion2" class="eng">@descrip-eng</div>
+                <div id="descripcion1" class="cst">@descrip-cst</div>
+            
+            </div>
+            
+  			<div id="material-grafico">@images <div id="media">
+  
+  
+  
+  
+      <div class="media">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="560" height="430" align="middle">
+		<param name="allowScriptAccess" value="sameDomain" />
+		<param name="allowFullScreen" value="false" />
+		<param name="movie" value="./content/7.packaging/5.swf-project-6/2.560x430.swf" />
+		<param name="quality" value="high" />
+		<embed src="./content/7.packaging/5.swf-project-6/2.560x430.swf" quality="high" width="560" height="430" name="x" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" />
+	</object>
+</div>
+<div class="media">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="560" height="430" align="middle">
+		<param name="allowScriptAccess" value="sameDomain" />
+		<param name="allowFullScreen" value="false" />
+		<param name="movie" value="./content/7.packaging/5.swf-project-6/1.560x430.swf" />
+		<param name="quality" value="high" />
+		<embed src="./content/7.packaging/5.swf-project-6/1.560x430.swf" quality="high" width="560" height="430" name="x" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" />
+	</object>
+</div>
+
+  
+  
+  
+</div></div>
+                                    
+                           
+		</div><!-- container -->  
+	</body>
+</html>
+<!-- Stacey(2.3.0): 931288ec68da68009bc50b60838c4ddf -->

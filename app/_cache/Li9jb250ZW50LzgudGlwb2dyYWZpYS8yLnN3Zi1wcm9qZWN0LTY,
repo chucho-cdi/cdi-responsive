@@ -1,0 +1,209 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>COCINADEIDEAS  //  asfasfasf - asfasfasf</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+
+        <link href="../estilo-general.css" rel="stylesheet" type="text/css">
+        <link href="./templates/estilo-carne.css" rel="stylesheet" type="text/css">
+        <link href="./templates/tipsy.css" rel="stylesheet" type="text/css">
+        
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+        <script type="text/javascript" src="./templates/js/easing.js"></script>
+		<script type="text/javascript" src="./templates/js/jquery.ui.totop.js"></script>
+		<script type="text/javascript" src="./templates/js/jquery.tipsy.js"></script>
+
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $().UItoTop({ easingType: 'easeOutQuart' });
+            });
+        </script>
+        
+        
+		<script type='text/javascript'>
+			 $(function() {
+			   $('a[rel=izquierda]').tipsy({fade: true, gravity: 'ne'});
+			   $('a[rel=centro]').tipsy({fade: true, gravity: 'n'});
+			   $('a[rel=derecha]').tipsy({fade: true, gravity: 'nw'});
+			 });
+        </script>
+        
+      
+        <script>
+		/*
+		<!--http://jqueryfordesigners.com/fixed-floating-elements/ -->
+			$(function () {
+			  
+			  var msie6 = $.browser == 'msie' && $.browser.version < 7;
+			  
+			  if (!msie6) {
+				var top = $('#titulo').offset().top - parseFloat($('#titulo').css('margin-top').replace(/auto/, 0));
+				$(window).scroll(function (event) {
+				  // what the y position of the scroll is
+				  var y = $(this).scrollTop();
+				  
+				  // whether that's below the form
+				  if (y >= top) {
+					// if so, ad the fixed class
+					$('#titulo').addClass('fixed').animate({"margin-top" : 20});
+				  } else {
+					// otherwise remove it
+					$('#titulo').removeClass('fixed');
+				  }
+				});
+			  }  
+			});
+			*/
+		</script>
+        
+        
+        <script>
+		<!--http://jqueryfordesigners.com/fixed-floating-elements/ -->
+			$(function () {
+			  
+			  var msie6 = $.browser == 'msie' && $.browser.version < 7;
+			  
+			  if (!msie6) {
+				var top = $('#titulo').offset().top - parseFloat($('#titulo').css('margin-top').replace(/auto/, 0));
+				$(window).scroll(function (event) {
+				  // what the y position of the scroll is
+				  var y = $(this).scrollTop();
+				  // whether that's below the form
+				  if (y >= top) {
+					// if so, ad the fixed class			
+					$('#titulo').addClass('fixed'),						 
+					$('#titulo').animate({"margin-top" : 18});
+					} else {
+					// otherwise remove it
+					$('#titulo').removeClass('fixed');
+				  }
+					});
+			  }  
+			});
+		</script>
+        
+<style>
+#titulo {
+  position: absolute;
+  top: 553px;
+}
+
+#titulo.fixed {
+  position: fixed;
+  top: 0;
+}
+</style>
+		 
+        <link rel="icon" href="./templates/img/favicon-carne.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="./templates/img/favicon-carne.ico" type="image/x-icon"> 
+
+        
+	</head>
+    
+	<body>
+		<div id="container">
+        
+        	<div id="logo"><a href="./"><img src="./templates/img/cocina-de-ideas-logotipo-carne.jpg" width="365" height="68" alt="cocina de ideas logotipo"></a></div>
+            <div id="cambio-menu"><img src="./templates/img/opcion-vegetal.png" width="64" height="62" alt="opción vegetal"></div>
+          
+            <div id="titulo">
+                        <span class="cst">asfasfasf</span><br>
+                        <span class="eng">asfasfasf</span><br>
+                        <span class="controles">   
+                                                                                              <a href="./?/tipografia/swf-project-62/" class="controles" rel="izquierda" title='asfasfsdg sag sag sag sdsdg sag sag sag sag sdg / asfasfasf'>&larr;</a>
+                                
+                                  
+                                    <a href="./" class="controles" rel="centro" title='VOLVER / RETURN'>&#8855;</a> 
+                                                                                              <a href="./?/tipografia/project-name-2/" class="controles" rel="derecha" title='ABCDS / Absafak'>&rarr;</a>
+                                                       
+                              
+                        </span> 
+            </div>      
+
+           
+           	<div id="trabajo">
+            	<p><img src="../imagenes-trabajos/tipo-gaseosa/gaseosa-tipografia-presentacion.jpg" alt="asfasfasf,asfasfasf"></p>
+
+                
+                <div id="descripcion2" class="eng"><p>Una tipografía que evoca a las antiguas marcas de refrescos de los años 50. Logra diferenciarse del resto por su toque actual (con numerosos ángulos rectos y altos contrastes en las formas) sin perder los rasgos manuales, los trazos curvos y la angulación oblicua en sus letras. Perfecta en pequeños encabezados o como punto de partida para elaborados lettering.</p>
+
+<p>· Seleccionado para el libro <a href="http://www.indexbook.com/libro.php?idLibro=1260">SELECT J</a>, de Indexbook - 2011</p>
+</div>
+                <div id="descripcion1" class="cst"><p>Una tipografía que evoca a las antiguas marcas de refrescos de los años 50. Logra diferenciarse del resto por su toque actual (con numerosos ángulos rectos y altos contrastes en las formas) sin perder los rasgos manuales, los trazos curvos y la angulación oblicua en sus letras. Perfecta en pequeños encabezados o como punto de partida para elaborados lettering.</p>
+
+<p>· Seleccionada para el libro <a href="http://www.indexbook.com/libro.php?idLibro=1260">SELECT J</a>, de Indexbook - 2011</p>
+</div>
+            
+            </div>
+            
+  			<div id="material-grafico"><p><img src="../imagenes-trabajos/tipo-gaseosa/gaseosa-caja-tipografica.jpg" alt="asfasfasf - asfasfasf"></p>
+
+<div class="titulo-imgs">
+<span class="cst">Caja tipográfica</span><br>
+<span class="eng">Typographyc set</span>
+</div>
+
+<p><img src="../imagenes-trabajos/tipo-gaseosa/gaseosa-proceso1.jpg" alt="asfasfasf - asfasfasf"></p>
+
+<div class="titulo-imgs">
+<span class="cst">PROCESO · Recuperación de letras y palabras dibujadas por quienes vivieron la época</span><br>
+<span class="eng">PROCESS · Recovery of different letters and words drawn by the people who lived the era</span>
+</div>
+
+<p><img src="../imagenes-trabajos/tipo-gaseosa/gaseosa-proceso2.jpg" alt="asfasfasf - asfasfasf">
+<img src="../imagenes-trabajos/tipo-gaseosa/gaseosa-proceso3.jpg" alt="asfasfasf - asfasfasf">
+<img src="../imagenes-trabajos/tipo-gaseosa/gaseosa-proceso4.jpg" alt="asfasfasf - asfasfasf">
+<img src="../imagenes-trabajos/tipo-gaseosa/gaseosa-proceso5.jpg" alt="asfasfasf - asfasfasf"></p>
+
+<div class="titulo-imgs">
+<span class="cst">PROCESO · Bocetos y correcciones</span><br>
+<span class="eng">PROCESS · Sketches and adjustements</span>
+</div>
+
+<p><img src="../imagenes-trabajos/tipo-gaseosa/gaseosa-botellas1.jpg" alt="asfasfasf - asfasfasf">
+<img src="../imagenes-trabajos/tipo-gaseosa/gaseosa-botellas2.jpg" alt="asfasfasf - asfasfasf">
+<img src="../imagenes-trabajos/tipo-gaseosa/gaseosa-botellas3.jpg" alt="asfasfasf - asfasfasf"></p>
+
+<div class="titulo-imgs">
+<span class="cst">Botellas de presentación</span><br>
+<span class="eng">Presentation bottles</span>
+</div>
+ <div id="media">
+  
+  
+  
+  
+      <div class="media">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="560" height="430" align="middle">
+		<param name="allowScriptAccess" value="sameDomain" />
+		<param name="allowFullScreen" value="false" />
+		<param name="movie" value="./content/8.tipografia/2.swf-project-6/2.560x430.swf" />
+		<param name="quality" value="high" />
+		<embed src="./content/8.tipografia/2.swf-project-6/2.560x430.swf" quality="high" width="560" height="430" name="x" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" />
+	</object>
+</div>
+<div class="media">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="560" height="430" align="middle">
+		<param name="allowScriptAccess" value="sameDomain" />
+		<param name="allowFullScreen" value="false" />
+		<param name="movie" value="./content/8.tipografia/2.swf-project-6/1.560x430.swf" />
+		<param name="quality" value="high" />
+		<embed src="./content/8.tipografia/2.swf-project-6/1.560x430.swf" quality="high" width="560" height="430" name="x" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" />
+	</object>
+</div>
+
+  
+  
+  
+</div></div>
+                                    
+                           
+		</div><!-- container -->  
+	</body>
+</html>
+<!-- Stacey(2.3.0): 9ce8bb038e47295a25f54cc55b2cf6ce -->

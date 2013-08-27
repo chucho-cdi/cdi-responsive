@@ -1,0 +1,131 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>COCINADEIDEAS  |  ·</title>
+  
+
+
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+
+        <link href="../estilo-general.css" rel="stylesheet" type="text/css">
+        <link href="./templates/estilo-carne.css" rel="stylesheet" type="text/css">
+        <link href="./templates/tipsy.css" rel="stylesheet" type="text/css">
+        
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script type="text/javascript" src="./templates/js/easing.and.totop.js"></script>
+		<script type="text/javascript" src="./templates/js/jquery.tipsy.js"></script>
+		<script type="text/javascript" src="./templates/js/funciones.web.js"></script>
+     
+       	<script>
+			$(document).ready(function(){
+				  detectaridioma();
+			})
+    	</script>
+       
+		<script type='text/javascript'>
+			 $(function() {
+			   $('a[rel=izquierda]').tipsy({fade: true, gravity: 'se', html: true});
+			   $('a[rel=centro]').tipsy({fade: true, gravity: 's'});
+			   $('a[rel=derecha]').tipsy({fade: true, gravity: 'sw', html: true});
+			 });
+        </script>
+       
+            
+		 
+        <link rel="icon" href="./templates/img/favicon-carne.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="./templates/img/favicon-carne.ico" type="image/x-icon"> 
+
+        
+	</head>
+    
+	<body>
+		<div id="container">
+        
+            <div id="toppagina"></div>
+            
+            <div id="content">
+                 
+                
+                    <div class="miniaturastitulo" style="margin-bottom:18px">
+                    <h1><span class="ocultablecst">Nightbook lettering</span><span class="ocultableeng">·</span></h1>
+                    
+                            <div id="controles">
+
+                                                                                                          <a href="./?/digital/tipografia-gaseosa/" class="controles ocultablecst" rel="izquierda" title='Tipografía Gaseosa'>
+                                      <img src="./templates/img/transp.gif" class="navegacion-izq">
+                                      </a>
+                                      <a href="./?/digital/tipografia-gaseosa/" class="controles ocultableeng" rel="izquierda" title='Gaseosa type'>
+                                      <img src="./templates/img/transp.gif" class="navegacion-izq">
+                                      </a>
+                                    
+                                      
+                                        <a href="./#Tipografia" class="controles ocultablecst" rel="centro" title='VOLVER'>
+                                        <img src="./templates/img/transp.gif" class="navegacion-return">
+                                        </a> 
+                                        <a href="./#Tipografia" class="controles ocultableeng" rel="centro" title='RETURN'>
+                                        <img src="./templates/img/transp.gif" class="navegacion-return">
+                                        </a> 
+                                                                                                          <a href="./?/digital/tipo-en-la-cabeza/" class="controles ocultablecst" rel="derecha" title='Con la tipo en la cabeza'>
+                                      <img src="./templates/img/transp.gif" class="navegacion-der">
+                                      </a>
+                                      <a href="./?/digital/tipo-en-la-cabeza/" class="controles ocultableeng" rel="derecha" title='With type into the head'>
+                                      <img src="./templates/img/transp.gif" class="navegacion-der">
+                                      </a>
+                                                           
+                                  
+                            </div> 
+                 	</div>      
+
+           
+           	
+            	<p><img src="../imagenes-trabajos/tipo-nightbook-lettering/tipografia-nightbook-lettering1.jpg" alt="Nightbook lettering"></p>
+
+                
+                <div class="descripcion1 cst hyphenate" style="margin-bottom:40px"><p>Lettering inspirado en la canción Nightbook, de Ludovico Einaudi.
+El compositor, considerado como uno de los mejores representantes de la música clásica contemporánea, dota a sus creaciones de ritmo y fluidez, con altos contrastes en sus notas y un estilo libre y personal muy característico.</p>
+</div>
+                <div class="descripcion2 eng hyphenate" style="margin-bottom:40px"><p>Lettering inspirado en la canción Nightbook, de Ludovico Einaudi.
+El compositor, considerado como uno de los mejores representantes de la música clásica contemporánea, dota a sus creaciones de ritmo y fluidez, con altos contrastes en sus notas y un estilo libre y personal muy característico.</p>
+</div>
+                            
+            <p><img src="../imagenes-trabajos/tipo-nightbook-lettering/tipografia-nightbook-lettering-proceso.jpg" alt="Nightbook lettering - Proceso"></p>
+
+<div class="titulo-imgs">
+<span class="cst">PROCESO · Ajustes a mano</span><br>
+<span class="eng">PROCESS · Adjustments by hand</span>
+</div>
+ <div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+            <div class="bloque-contenido">
+
+    <div class="descripcion1 cst" style="padding-top:15px;  padding-bottom:4px">
+     	<a href="./" class="link ocultablecst">VOLVER AL MENU</a><a href="./" class="link ocultableeng">RETURN TO THE MENU</a> ·
+        <a href="./?/feed/" title="RSS FEED!" target="_blank" class="link" style="position:relative; bottom:-1px;">RSS</a><br />
+        Content proudly managed by <a href="http://www.staceyapp.com" title="STACEY APP" target="_blank" class="link" style="position:relative; bottom:-1px;">Stacey</a><br />
+    </div>
+    
+    <div class="descripcion2" style="padding-bottom:4px; text-align:center">
+        <a href="http://www.promsite.org/" title="PROMSITE WEB HOST" target="_blank"><img src="./templates/img/promsite-hosting-sponsor.png" width="196" height="70" alt="Many thanks to PROMSITE hosting sponsor"/></a>
+    </div>
+
+
+
+</div> <!--bloque-contenido --><br><br>
+            </div><!-- content -->                         
+        
+        
+                           
+		</div><!-- container -->  
+	</body>
+</html>
+<!-- Stacey(2.3.0): aae07dfc68ec1548a2e47a83e83eb9e0 -->

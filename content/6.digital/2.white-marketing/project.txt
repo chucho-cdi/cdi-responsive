@@ -1,0 +1,41 @@
+tipo-proyecto: Digital
+-
+title-cst: White Marketing
+-
+title-eng: White Marketing
+-
+date: 2011
+-
+image-portada:
+<img src="../../../imagenes-trabajos/web-white-marketing-agencia/white-marketing-servicios.png" alt="@title-eng main website">
+-
+descrip-cst: 
+Conceptualización, diseño y desarrollo del sitio web para la empresa de marketing WM. <a href="http://cocinadeideas.net/menu-carne/identidad/white-marketing/" target="blank" class="cst enlacetexto">Más información</a>.
+
+· Trabajo conjunto con Leticia Velasco.
+
+· Visitar: <a href="../../../imagenes-trabajos/web-white-marketing-agencia/web/" target="blank" class="cst enlacetexto">Propuesta inicial</a> / <a href="http://www.whitemarketing.es/" class="cst enlacetexto">Página final</a>
+-
+descrip-eng: 
+English translation coming soon!
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/web-white-marketing-agencia/white-marketing-publicidad-online.png" alt="@title-eng - layout online advertising">
+
+<img src="../../../imagenes-trabajos/web-white-marketing-agencia/white-marketing-social-media.png" alt="@title-eng - layout social media">
+
+<img src="../../../imagenes-trabajos/web-white-marketing-agencia/white-marketing-contacto.png" alt="@title-eng - layout contact">
+<div class="titulo-imgs" style="background-image:none;">
+<span class="cst">Diferentes secciones</span><br>
+<span class="eng">Various sections</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/web-white-marketing-agencia/white-marketing-blog.png" alt="@title-eng - blog">
+
+<img src="../../../imagenes-trabajos/web-white-marketing-agencia/white-marketing-twitter.png" alt="@title-eng - twitter background">
+<div class="titulo-imgs" style="background-image:none;">
+<span class="cst">Blog & Twitter</span><br>
+</div>

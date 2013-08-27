@@ -1,0 +1,65 @@
+tipo-proyecto: Identity
+-
+title-cst: Exuru deals
+-
+title-eng: Exuru deals
+-
+date: 2012
+-
+image-portada:
+<img src="../../../imagenes-trabajos/identidad-exuru-deals/exuru-deals-paper-logotype.png" alt="@title-cst">
+-
+descrip-cst:
+Exuru procesa y elimina automáticamente todos los incómodos emails de descuentos y ofertas (Groupon, Amazon, Groupalia, LetsBonus, etc) que llegan diariamente al buzón de los usuarios, permitiendo buscar sus contenidos en una cómoda web y/o aplicación para móvil.
+
+Desarrollamos una identidad basada en papel y tipografías escritas a mano, transmitiendo una versión actualizada de la esencia cercana y espontánea que siempre ha caracterizado a las ofertas en las clásicas tiendas de barrio. 
+-
+descrip-eng: 
+Exuru manage and delete automatically every painful deal and offer email (Groupon, Living Social, Amazon, etc) that comes daily into the users inbox, allowing to browse all of them in a comfortable website or mobile application.
+
+We developed a graphic identity based on paper and real handwritten typefaces, managing to convey an updated version of the friendly and spontaneous essence that has always characterized offers in the small retailers.  
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/identidad-exuru-deals/exuru-deals-app-paper-icon.png" alt="@title-cst">
+<img src="../../../imagenes-trabajos/identidad-exuru-deals/exuru-deals-drawing-promotional-images.png" alt="@title-cst">
+<div class="titulo-imgs">
+<span class="cst">Icono de la aplicación y gráfico explicativo del uso de la web</span><br>
+<span class="eng">App icon and website usage explanatory graphic</span>
+</div>
+
+<br><br><br><br>
+<iframe src="http://player.vimeo.com/video/36370668?title=0&amp;portrait=0&amp;color=ee323d" width="615" height="346" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<img src="../../../imagenes-trabajos/identidad-exuru-deals/exuru-deals-paperkraft-app-website-making-off1.png" alt="@title-cst">
+<img src="../../../imagenes-trabajos/identidad-exuru-deals/exuru-deals-paperkraft-app-website-making-off2.png" alt="@title-cst">
+<div class="titulo-imgs" style="background-image:none;">
+<span class="cst">Vídeo promocional</span><br>
+<span class="eng">Promotional video</span>
+</div>
+<br><br><br><br><br><br>
+
+<img src="../../../imagenes-trabajos/identidad-exuru-deals/exuru-deals-paperkraft-promotional-images1.png" alt="@title-cst">
+<br><br><br><br>
+<img src="../../../imagenes-trabajos/identidad-exuru-deals/exuru-deals-paperkraft-app-website-making-off3.png" alt="@title-cst">
+<img src="../../../imagenes-trabajos/identidad-exuru-deals/exuru-deals-paperkraft-app-website-making-off4.png" alt="@title-cst">
+<div class="titulo-imgs">
+<span class="cst">Gráfica1 - Presentación</span><br>
+<span class="eng">Graphic1 - Presentation</span>
+</div>
+
+<br><br><br><br>
+
+<img src="../../../imagenes-trabajos/identidad-exuru-deals/exuru-deals-paperkraft-promotional-images2.png" alt="@title-cst">
+<br><br><br><br>
+<img src="../../../imagenes-trabajos/identidad-exuru-deals/exuru-deals-paperkraft-app-website-making-off5.png" alt="@title-cst">
+<div class="titulo-imgs">
+<span class="cst">Gráfica2 - Presentación ampliada (animación CSS/JS)</span><br>
+<span class="eng">Graphic2 - Extended presentation (CSS/JS animation)</span>
+</div>
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+tipo-proyecto: Identity
+-
+title-cst: Quimbio
+-
+title-eng: Quimbio
+-
+date: 2009
+-
+image-portada:
+<img src="../../../imagenes-trabajos/identidad-quimbio-ambientes-puros/identidad-qiumbio-logotipo.png" alt="@title-eng - Limpieza y desinfección industrial valladolid">
+-
+descrip-cst: 
+Empresa especializada tratamientos de control de plagas, desinfección, desratización y otras actividades de limpieza industrial.
+<br>
+Seleccionado para el libro <a href="http://www.amazon.com/gp/customer-media/product-gallery/8492643099/ref=cm_ciu_pdp_images_1?ie=UTF8&index=1" class="cst enlacetexto">Basic logos</a>, de Indexbook.
+
+<br>CLAVES DEL PROYECTO<br>
+Seguridad / Limpieza / Respeto medioambiental
+-
+descrip-eng: 
+Company specialised in pest control treatment, extermination of pest and rodents, and other activities related with industrial cleaning.
+<br>
+Selected for the book <a href="http://www.amazon.com/gp/customer-media/product-gallery/8492643099/ref=cm_ciu_pdp_images_1?ie=UTF8&index=1" class="cst enlacetexto">Basic logos</a>, Indexbook.
+
+<br>PROJECT KEYS<br>
+Safety / Cleaningness / Enviromental respect
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/identidad-quimbio-ambientes-puros/identidad-qiumbio-logotipo-variaciones.png" alt="@title-eng - Different sections in the company">
+<div class="titulo-imgs">
+<span class="cst">División por departamentos</span><br>
+<span class="eng">Different sections in the company</span>
+</div>

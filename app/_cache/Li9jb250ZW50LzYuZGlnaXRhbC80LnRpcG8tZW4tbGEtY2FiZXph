@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>COCINADEIDEAS  |  With type into the head</title>
+  
+
+
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+
+        <link href="../estilo-general.css" rel="stylesheet" type="text/css">
+        <link href="./templates/estilo-carne.css" rel="stylesheet" type="text/css">
+        <link href="./templates/tipsy.css" rel="stylesheet" type="text/css">
+        
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script type="text/javascript" src="./templates/js/easing.and.totop.js"></script>
+		<script type="text/javascript" src="./templates/js/jquery.tipsy.js"></script>
+		<script type="text/javascript" src="./templates/js/funciones.web.js"></script>
+     
+       	<script>
+			$(document).ready(function(){
+				  detectaridioma();
+			})
+    	</script>
+       
+		<script type='text/javascript'>
+			 $(function() {
+			   $('a[rel=izquierda]').tipsy({fade: true, gravity: 'se', html: true});
+			   $('a[rel=centro]').tipsy({fade: true, gravity: 's'});
+			   $('a[rel=derecha]').tipsy({fade: true, gravity: 'sw', html: true});
+			 });
+        </script>
+       
+            
+		 
+        <link rel="icon" href="./templates/img/favicon-carne.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="./templates/img/favicon-carne.ico" type="image/x-icon"> 
+
+        
+	</head>
+    
+	<body>
+		<div id="container">
+        
+            <div id="toppagina"></div>
+            
+            <div id="content">
+                 
+                
+                    <div class="miniaturastitulo" style="margin-bottom:18px">
+                    <h1><span class="ocultablecst">Con la tipo en la cabeza</span><span class="ocultableeng">With type into the head</span></h1>
+                    
+                            <div id="controles">
+
+                                                                                                          <a href="./?/digital/nightbook-lettering-ludovico-einaudi/" class="controles ocultablecst" rel="izquierda" title='Nightbook lettering'>
+                                      <img src="./templates/img/transp.gif" class="navegacion-izq">
+                                      </a>
+                                      <a href="./?/digital/nightbook-lettering-ludovico-einaudi/" class="controles ocultableeng" rel="izquierda" title='·'>
+                                      <img src="./templates/img/transp.gif" class="navegacion-izq">
+                                      </a>
+                                    
+                                      
+                                        <a href="./#Tipografia" class="controles ocultablecst" rel="centro" title='VOLVER'>
+                                        <img src="./templates/img/transp.gif" class="navegacion-return">
+                                        </a> 
+                                        <a href="./#Tipografia" class="controles ocultableeng" rel="centro" title='RETURN'>
+                                        <img src="./templates/img/transp.gif" class="navegacion-return">
+                                        </a> 
+                                                                                                          <a href="./?/digital/tipografia-gaseosa/" class="controles ocultablecst" rel="derecha" title='Tipografía Gaseosa'>
+                                      <img src="./templates/img/transp.gif" class="navegacion-der">
+                                      </a>
+                                      <a href="./?/digital/tipografia-gaseosa/" class="controles ocultableeng" rel="derecha" title='Gaseosa type'>
+                                      <img src="./templates/img/transp.gif" class="navegacion-der">
+                                      </a>
+                                                           
+                                  
+                            </div> 
+                 	</div>      
+
+           
+           	
+            	<p><img src="../imagenes-trabajos/tipo-en-la-cabeza/tipografia-cabeza-pelo1.jpg" alt="Con la tipo en la cabeza - Engravers"></p>
+
+                
+                <div class="descripcion1 cst hyphenate" style="margin-bottom:40px"><p>La misión: crear una tipografía experimental basada en las iniciales de diversos tipos utilizando una máquina de cortar el pelo como única herramienta. Ahora, más de un año y medio después, el abecedario completo se puede ver en la siguiente página web: <a href="http://www.cocinadeideas.net/conlatipoenlacabeza"  class="cst enlacetexto">cocinadeideas.net/conlatipoenlacabeza</a>.</p>
+</div>
+                <div class="descripcion2 eng hyphenate" style="margin-bottom:40px"><p>La misión: crear una tipografía experimental basada en las iniciales de diversos tipos utilizando una máquina de cortar el pelo como única herramienta. Ahora, más de un año y medio después, el abecedario completo se puede ver en la siguiente página web: <a href="http://www.cocinadeideas.net/conlatipoenlacabeza"  class="eng enlacetexto">cocinadeideas.net/conlatipoenlacabeza</a>.</p>
+</div>
+                            
+            <p><img src="../imagenes-trabajos/tipo-en-la-cabeza/tipografia-cabeza-pelo2.jpg" alt="Con la tipo en la cabeza - Futura">
+<img src="../imagenes-trabajos/tipo-en-la-cabeza/tipografia-cabeza-pelo3.jpg" alt="Con la tipo en la cabeza - Neutraface">
+<img src="../imagenes-trabajos/tipo-en-la-cabeza/tipografia-cabeza-pelo4.jpg" alt="Con la tipo en la cabeza - Rockwell"></p>
+
+<div class="titulo-imgs">
+<span class="cst">LETRAS · </span><span class="eng">LETTERS</span><br>
+<span class="eng">Engravers, Futura, Neutraface & Rockwell</span>
+</div>
+
+<p><img src="../imagenes-trabajos/tipo-en-la-cabeza/tipografia-cabeza-pelo-proceso1.jpg" alt="Con la tipo en la cabeza - Proceso">
+<img src="../imagenes-trabajos/tipo-en-la-cabeza/tipografia-cabeza-pelo-proceso2.jpg" alt="Con la tipo en la cabeza - Proceso"></p>
+
+<div class="titulo-imgs">
+<span class="cst">PROCESO · Primeras marcas y perfilado de detalles</span><br>
+<span class="eng">PROCESS · First marks and shaping the details</span>
+</div>
+
+<iframe src="http://player.vimeo.com/video/18843490?title=0&amp;portrait=0&amp;color=ee323d" width="615" height="446" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+            <div class="bloque-contenido" style="height:60px;">
+
+    <div class="descripcion1 cst" style="padding-top:25px;  padding-bottom:4px">
+     	<a href="./" class="link">COCINA DE IDEAS</a> · 2012 · <a href="./?/feed/" title="RSS FEED!" target="_blank" class="link" style="position:relative; bottom:-1px;">RSS</a><br />
+        Content proudly managed by <a href="http://www.staceyapp.com" title="STACEY APP" target="_blank" class="link" style="position:relative; bottom:-1px;">Stacey</a><br />
+    </div>
+    
+    <div class="descripcion2" style="padding-top:10px; padding-bottom:4px; text-align:center">
+        <a href="http://www.promsite.org/" title="PROMSITE WEB HOST" target="_blank"><img src="./templates/img/promsite-hosting-sponsor.png" width="196" height="70" alt="Many thanks to PROMSITE hosting sponsor"/></a>
+    </div>
+
+
+
+</div> <!--bloque-contenido --><br><br>
+            </div><!-- content -->                         
+        
+        
+                           
+		</div><!-- container -->  
+	</body>
+</html>
+<!-- Stacey(2.3.0): 6d1ab12af4577f43816863e6058843f4 -->

@@ -1,0 +1,33 @@
+tipo-proyecto: Print
+-
+title-cst: Hawaiian Tropic · Campaña de verano
+-
+title-eng: Hawaiian Tropic · Summer campaign
+-
+date: 2010
+-
+image-portada:
+<img src="../../../imagenes-trabajos/print-hawaiian-tropic/hawaiian-tropic-publicidad-verano-crema1.png" alt="@title-eng">
+-
+descrip-cst: 
+Hawaiian Tropic ofrece una amplia gama de productos para la protección solar tales como aceites, lociones, avanzados after-sun y barras para el cuidado de los labios.
+
+La campaña se desarrolla en las playas de Barcelona, Valencia e Ibiza para promocionar la salida de la nueva gama de cremas bronceadoras buscando un enfoque diferencie para potenciar dos de sus principales cualidades: rapidez en el secado y protección contra quemaduras.
+-
+descrip-eng: 
+English translation coming soon!
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/print-hawaiian-tropic/hawaiian-tropic-publicidad-verano-crema2.png" alt="@title-eng - Magazines advertising">
+<div class="titulo-imgs">
+<span class="cst">Gráfica1 (Bronceado perfecto con la mejor protección contra quemaduras)<br>Gráfica2 (Crema bronceadora con y sin protección. Secado rápido y textura no pegajosa)</span><br>-<br>
+<span class="eng">Ad1 (Perfect tan with the best protection against burns)<br>Ad2 (Cream with and without sunscreen protection. Fast drying and non-sticky texture)</span>
+</div>
+
+<img src="../../../imagenes-trabajos/print-hawaiian-tropic/hawaiian-tropic-publicidad-verano-crema3.png" alt="@title-eng - Some applications">
+<div class="titulo-imgs">
+<span class="cst">Algunas aplicaciones</span><br>
+<span class="eng">Some applications</span>
+</div>

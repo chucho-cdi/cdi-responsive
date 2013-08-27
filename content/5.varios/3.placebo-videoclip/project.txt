@@ -1,0 +1,26 @@
+tipo-proyecto: Various
+-
+title-cst: Placebo · Pure morning videoclip
+-
+title-eng: Placebo · Pure morning videoclip
+-
+date: 2010
+-
+image-portada:
+<img src="../../../imagenes-trabajos/varios-placebo-videoclip/placebo-pure-morning-videoclip.png" alt="@title-cst">
+-
+descrip-cst:
+Videoclip no-oficial para la banda Inglesa.
+
+<br>CLAVES DEL PROYECTO<br>
+Oscuridad / Evolución / Libertad
+-
+descrip-eng: 
+English translation coming soon!
+-
+keywords: 
+-
+images:
+<br>
+<iframe src="http://player.vimeo.com/video/12439606?title=0&amp;portrait=0&amp;color=ee323d" width="615" height="346" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<br><br><br><br>

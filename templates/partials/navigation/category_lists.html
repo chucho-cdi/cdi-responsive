@@ -1,0 +1,30 @@
+foreach $root do
+  if $children do
+  
+    <div class="col span_12_of_12">
+        <h1 id="@title-eng">
+        <span class="ocultablecst">@title-cst</span>
+        <span class="ocultableeng">@title-eng</span>
+        </h1>
+    </div>
+ 
+  
+    <div class="section group">
+          
+        foreach $children do
+        <div class="col span_4_of_12">
+
+                <a href="@url"><img src="@thumb" alt="@title-eng" width="100%"></a>
+            
+                
+                <div class="miniatura-textos">
+                    <!--<p class="date">@date</p> -->
+                    <h3 class="summary cst ocultablecst"><a href="@url">@title-cst</a></h3>
+                    <h3 class="summary eng ocultableeng"><a href="@url">@title-eng</a></h3>
+                </div>
+	    </div>
+         endforeach
+    
+    
+  endif
+endforeach

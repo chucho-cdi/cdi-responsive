@@ -1,0 +1,71 @@
+<!-- Despues de cargar la lista de thumbs, ocultamos una parte -->
+<!-- http://pixelcoblog.com/mostrar-contenido-al-azar-con-css-y-jquery/ -->
+
+<script type="text/javascript">
+
+this.randomtip = function(){
+	var length = $("li").length;
+	var rana = Math.floor(Math.random()*length) + 1;
+	var ranb = Math.floor(Math.random()*length) + 1;
+	var ranc = Math.floor(Math.random()*length) + 1;
+	var rand = Math.floor(Math.random()*length) + 1;
+	var rane = Math.floor(Math.random()*length) + 1;
+	var ranf = Math.floor(Math.random()*length) + 1;
+	var rang = Math.floor(Math.random()*length) + 1;
+	var ranh = Math.floor(Math.random()*length) + 1;
+	var rani = Math.floor(Math.random()*length) + 1;
+
+	$("li:nth-child(" + rana + ")").show();
+	$("li:nth-child(" + ranb + ")").show();
+	$("li:nth-child(" + ranc + ")").show();
+	$("li:nth-child(" + rand + ")").show();
+	$("li:nth-child(" + rane + ")").show();
+	$("li:nth-child(" + ranf + ")").show();
+	$("li:nth-child(" + rang + ")").show();
+	$("li:nth-child(" + ranh + ")").show();
+	$("li:nth-child(" + rani + ")").show();
+};
+
+$(document).ready(function(){
+	randomtip();
+});
+
+</script> 
+ 
+
+<div class="miniaturastitulo" style="margin-top:80px; margin-bottom:20px; font-size:14px;">
+	    <h1><span class="ocultablecst">Otros proyectos</span><span class="ocultableeng">Other projects</span></h1>
+        <div class="controles" style="top:4px;">
+            <a href="@root_path/#@tipo-proyecto" class="link ocultablecst">VOLVER</a>
+            <a href="@root_path/#@tipo-proyecto" class="link ocultableeng">RETURN</a>   
+        </div>
+</div>
+    
+
+ 
+        <ul class="project-list col seven" style="margin-bottom:15px; font-size:14px; height:300px; overflow:hidden;">
+        foreach $root do
+            if $children do
+                foreach $children do
+                    <li style="margin-bottom:0px; display:none;">
+                        <div class="miniatura">
+                            <a href="@url"><img src="@thumb" alt="@title-eng"></a>
+                        </div>
+                    </li>
+                endforeach
+            endif
+		endforeach
+        </ul>
+        
+  <div class="miniaturastitulo" style="font-size:14px;">
+	    <h1><span class="ocultablecst">Comparte esta página</span><span class="ocultableeng">Share the love</span></h1>
+        
+        <div class="controles" style="top:4px;">
+            <a href="javascript: void(0);" class="link" rel="bookmark" title='FACEBOOK' onclick="window.open ('http://www.facebook.com/sharer.php?u=http://@base_url/@permalink', 'Facebook', 'toolbar=0, status=0, width=670, height=320');">F</a>
+            <span class="link" style="margin:7px">/</span>
+            <a href="javascript: void(0);" class="link" rel="bookmark" title='TWITTER' onclick="window.open ('http://twitter.com/home?status=Check this out! http://@base_url/@permalink by @cocinaideas', 'Twitter', 'toolbar=0, status=0, width=550, height=350');">T</a>
+            <span class="link" style="margin:7px">/</span>
+			<a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());" class="link" rel="bookmark" title='PINTEREST'>P</a>
+        </div>
+ 
+</div>       

@@ -1,0 +1,48 @@
+tipo-proyecto: Various
+-
+title-cst: Bautisch · Mesa conceptual
+-
+title-eng: Bautisch · Conceptual desk
+-
+date: 2010
+-
+image-portada:
+<img src="../../../imagenes-trabajos/varios-mesa-bauhaus/mesa-conceptual-bauhaus-general1.png" alt="@title-eng - bauhaus movement inspired">
+-
+descrip-cst:
+Mesa conceptual inspirada en los ideales de la Bauhaus. 
+
+Diseño de producto, animación y montaje del vídeo de presentación, donde destacamos varias de sus principales características: luces ambientales, de lectura, varios cajones modulares, tabla de dibujo y corte, mesa de calco, etc.
+
+<br>CLAVES DEL PROYECTO<br>
+Simplicidad / Utilidad / Cuidado del detalle
+-
+descrip-eng: 
+Conceptual desk inspirated by Bauhaus principles.Product design, animation and presentation video editing, where we highlighted some of its main features:  ambient and reading light, several modular drawers, drawing desk, cutting map, tracing light, etc.
+<br>PROJECT KEYS<br>
+Simplicity / Usefulness / Detail care
+-
+keywords: 
+-
+images:
+<br>
+<iframe src="http://player.vimeo.com/video/12599824?title=0&amp;portrait=0&amp;color=ee323d" width="615" height="470" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<br><br><br><br>
+
+
+<img src="../../../imagenes-trabajos/varios-mesa-bauhaus/mesa-conceptual-bauhaus-general2.png" alt="@title-eng - bauhaus movement inspired">
+<div class="titulo-imgs">
+<span class="cst">Vista general</span><br>
+<span class="eng">General view</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/varios-mesa-bauhaus/mesa-conceptual-bauhaus-estructura.png" alt="@title-eng - drawers">
+<img src="../../../imagenes-trabajos/varios-mesa-bauhaus/mesa-conceptual-bauhaus-luces1.png" alt="@title-eng - lectura lights system">
+<img src="../../../imagenes-trabajos/varios-mesa-bauhaus/mesa-conceptual-bauhaus-luces2.png" alt="@title-eng - light details">
+<img src="../../../imagenes-trabajos/varios-mesa-bauhaus/mesa-conceptual-bauhaus-luces3.png" alt="@title-eng - ambient light">
+<div class="titulo-imgs">
+<span class="cst">Estructura y detalles de las luces</span><br>
+<span class="eng">Structure and light system details</span>
+</div>
+

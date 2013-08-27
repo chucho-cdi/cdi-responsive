@@ -1,0 +1,50 @@
+tipo-proyecto: Identity
+-
+title-cst: White marketing
+-
+title-eng: White marketing
+-
+date: 2011
+-
+image-portada:
+<img src="../../../imagenes-trabajos/identidad-white-marketing/identidad-white-marketing-logotipo.png" alt="@title-eng - Marketing agency branding logotype">
+-
+descrip-cst: 
+Agencia especializada en marketing online y caracterizada por su multidisciplinaridad y cercanía al cliente.
+
+Trabajo conjunto con <a href="http://www.leticli.com/" class="cst enlacetexto">L. Velasco</a> y WhiteMarketing.
+
+<br>CLAVES DEL PROYECTO<br>
+Diálogo / Confianza / Efectividad
+-
+descrip-eng: 
+Agency specialised in Online Marketing and notable for its proximity to the customers. 
+
+Project carried out together with <a href="http://www.leticli.com/" class="eng enlacetexto">L. Velasco</a> y WhiteMarketing.
+
+<br>PROJECT KEYS<br>
+Dialigue / Trust / Efectivity
+-
+keywords: 
+-
+images:
+<img src="../../../imagenes-trabajos/identidad-white-marketing/identidad-white-marketing-fiosofia.png" alt="@title-eng - Brand philosophy">
+<div class="titulo-imgs">
+<span class="cst">Filosofía de marca</span><br>
+<span class="eng">Brand's philosophy</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/identidad-white-marketing/identidad-white-marketing-variaciones1.png" alt="@title-eng - Identity variations">
+<img src="../../../imagenes-trabajos/identidad-white-marketing/identidad-white-marketing-variaciones2.png" alt="@title-eng - Identity variations">
+<div class="titulo-imgs">
+<span class="cst">Algunas posibles variaciones de la identidad</span><br>
+<span class="eng">Some identity variations</span>
+</div>
+
+
+<img src="../../../imagenes-trabajos/identidad-white-marketing/identidad-white-marketing-folio.png" alt="@title-eng - Corporate letterhead">
+<div class="titulo-imgs">
+<span class="cst">Papel de carta</span><br>
+<span class="eng">Letterhead</span>
+</div>
